@@ -1,0 +1,25 @@
+1. Integrated overvoltage and overcurrent device
+2. High buffer gas pressure ceramic arc tube and method and apparatus for making same
+3. Maintaining a sliding view of server-based data on a handheld personal computer
+4. On-chip structure for electrostatic discharge (ESD) protection
+5. Voltage variable material for direct application and devices employing same
+6. Information display system for atypical flight phase
+7. System and method for generating custom hierarchies in an analytical data structure
+8. Card guide and method for use in guiding circuit board with respect to chassis
+9. Apparatus for making high buffer gas pressure ceramic arc tube
+10. Electric toothbrush housing design
+11. Geometric and perforated paint mixer and paint roller cleaner
+12. Analysis of data from a mass spectrometer
+13. System for sensing an absolute position in two dimensions using a target pattern
+14. Disposable test tube rack
+15. Tube coupling
+16. Bi-directional release mechanism for a torque fuse device
+17. Process to produce silica-filled elastomeric compounds
+18. Identification and cloning of a full-length human Clnk-related gene, MIST (mast cell immunoreceptor signal transducer)
+19. Video data storage and transmission system and method
+20. System and process for post alignment polarization extinction ratio compensation in semiconductor laser system
+21. Polyorganosiloxane fluid dispenser and method
+22. Methods of protein destabilization and uses thereof
+23. Roll printer with decomposed raster scan and X-Y distortion correction
+24. Electrostatic discharge protection device for digital circuits and for applications with input/output bipolar voltage much higher than the core circuit power supply
+25. Backlighting transmissive displays
