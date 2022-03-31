@@ -1,11 +1,20 @@
-def stergere(s):
-    if text == "d":
-        a_file = open("file_3.txt", "w")
-        a_file.truncate()
-        a_file.close()
-        print("Fisierul este gol.")
-    elif text == "c":
-        print("Stergerea a fost anulata.")
-    return s
+from time import sleep
+def stergere():
+    while True:
+        global text
+        text = input("Tasta 'd' pentru a STERGERE continutul fisierului,\nTasta 's' pentru scriere: ")
+        if text.lower() == "d":
+            a_file = open("patentTitles.txt", "w")
+            a_file.truncate()
+            a_file.close()
+            print("Fisierul este gol.")
+            break
+        elif text.lower() == "s":
+            print("Scrierea a fost efectuata.")
+            break
+        else:
+            print("Mai incearca odata. Introdu caractere valide!")
+            sleep(3)
 
-text =input("Apasa tasta 'd' pentru a STERGERE continutul fisierului \nSau 'c' pentru CANCEL : ")
+
+
