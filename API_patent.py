@@ -1,11 +1,12 @@
 import requests
+import json
 from DeleteContentFile import stergere
 
 Patent_url = "https://api.patentsview.org"
 
 # payload_1 = {'q': '{"_and":[{"inventor_last_name":"Whitney"},{"_gte":{"patent_date":"2007-01-04"}},{"_lte":{'
 #                   '"patent_date":"2007-12-31"}}]}'}
-payload_2 = {'q': '{"location_country":"RO"}', 'f': '["patent_title"]', 'o': '{"per_page": 208}'}
+payload_2 = {'q': '{"location_country":"RO"}', 'f': '["patent_title"]', 'o': '{"per_page": 300}'}
 
 
 def response(payload):
