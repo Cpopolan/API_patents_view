@@ -1,5 +1,6 @@
 from time import sleep
 def stergere():
+    ask = input("Ce tip de fisier doresti sa creezi? ( txt sau csv ):\n")
     while True:
         global text
         text = input("Tasta 'd' pentru a STERGERE continutul fisierului,\nTasta 's' pentru scriere: ")
