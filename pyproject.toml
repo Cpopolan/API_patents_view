@@ -8,6 +8,7 @@ authors = ["Constantin Popolan"]
 python = "^3.10"
 requests = "^2.27.1"
 plotly = "^5.7.0"
+pandas = "^1.4.2"
 
 [tool.poetry.dev-dependencies]
 

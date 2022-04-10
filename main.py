@@ -1,6 +1,5 @@
 import requests
 import json
-import delete_files
 
 
 class Api_request:
@@ -8,15 +7,17 @@ class Api_request:
 
     def __init__(self, country):
         """
-        :param country: import country RO and HU as default parameters.
+        Constructor for the 'country' param .
+        :param country: import country with abbreviation RO and HU as default parameters.
         """
         self.country = country
 
     def _set_response(self):
         """
+        Receiving the response in .json format.
         :return: getting the patent titles of the RO and HU at the desired period of time
         """
-        q = json.dumps({"_and": [{"_gte": {"patent_date": "2008-01-01"}},
+        q = json.dumps({"_and": [{"_gte": {"patent_date": "2000-01-01"}},
                                  {"_lt": {"patent_date": "2010-01-01"}},
                                  {"location_country": self.country}]})
         params = {'q': q, 'f': '["patent_title"]', 'o': '{"per_page": 300}'}
@@ -25,7 +26,8 @@ class Api_request:
 
     def get_patent_country(self):
         """
-        :return: a list and dictionary of titles
+        Extracting the patent titles from .json format.
+        :return: a list and dictionary of the patenet titles
         """
         patents = self._set_response()["locations"]
         patent_title = patents[:]
@@ -35,6 +37,7 @@ class Api_request:
 class files_hanling(Api_request):
     def __init__(self, country, title, file_type):
         """
+        Constructor for the params.
         :param country: parameter from the parent class ( RO and HU )
         :param title: this is the title of the created file
         :param file_type: this is the file extension. Could be .txt or .csv
@@ -44,9 +47,6 @@ class files_hanling(Api_request):
         self.file_type = file_type
 
     def get_titles(self):
-        """
-        :return: this is the patent title
-        """
         indx = 0
         for i in self.get_patent_country():
             pat = i["patents"]
@@ -57,6 +57,7 @@ class files_hanling(Api_request):
 
     def _write_files(self, indx, x):
         """
+        Creating the files in two formats.
         :param indx: this is the counter of the all patent titles. This will be stored into a file.
         :param x: this is the patent titles of the specific country patent. This will be stored into a file.
         :return: will create and write a file.
@@ -70,29 +71,39 @@ class files_hanling(Api_request):
                 text_file.write(f"{indx}. {x}\n")
 
 
-
 def main_ro():
     """
     :return: this is an object of the "files_handling" class
     """
-    file_type = input("Ce tip de fisier doresti sa creezi ( txt sau csv ) ?: \n")
-    title = input("Care este numele fisierului?: \n")
+    file_type = input("Ce tip de fisier doresti sa creezi pentru Romania ( txt sau csv ) ?: \n")
+    if file_type == "txt" or file_type == "csv":
+        title = input("Care este numele fisierului?: \n")
+    else:
+        print("Nu ai ales una din cele 2 formate recomandate.\nLa revedere!")
+        exit()
     new_file_ro = files_hanling("RO", title, file_type)
     new_file_ro.get_titles()
-    return file_type, title
 
 
 def main_hu():
     """
     :return: this is an object of the "files_handling" class
     """
-    file_type = input("Ce tip de fisier doresti sa creezi ( txt sau csv ) ?: \n")
-    title = input("Care este numele fisierului?: \n")
+    file_type = input("Ce tip de fisier doresti sa creezi pentru Ungaria ( txt sau csv ) ?: \n")
+    if file_type == "txt" or file_type == "csv":
+        title = input("Care este numele fisierului?: \n")
+    else:
+        print("Nu ai ales una din cele 2 formate recomandate.\nLa revedere!")
+        exit()
     new_file_hu = files_hanling("HU", title, file_type)
     new_file_hu.get_titles()
-    return file_type, title
 
 
-main_ro()
-main_hu()
-
+start_project = input("Cate tari doresti sa afisezi si sa creezi fisiere? ( 1 sau 2): \n")
+if start_project == "1":
+    main_ro()
+elif start_project == "2":
+    main_ro()
+    main_hu()
+else:
+    print(" Nu ai ales nici o tara.\nLa revedere!")
