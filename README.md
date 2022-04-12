@@ -1,14 +1,14 @@
-# API_patent_view
+# API patent viewer
 ## _The world wide pantent view_
 
 
-API_patent_view is an application for viasualisation the patent titles of the two countries Romania and Hungary.You can extends for many countirs as you want. Follow the steps below to explore the project features:
+API_patent_view is an application for viasualisation the patent titles of the two countries Romania and Ukraine.You can extend for many counties as you want. Follow the steps below to explore the project features:
 
 
 ## Features
-- Run the main.py file.
+
 - Create the files were you can store the informations.(txt or csv).
-- Run plot-titles.py file.
+
 - See the chart-bar of the countries.
 
 ## Tech
@@ -25,7 +25,13 @@ A short description from the Welcome page of the site:
 API_patent_view requires some python packaging:
 - kaleido packaging;
 - plotly packaging
+- requests packaging
+- pandas packaging
 - poetry as virtual env
+
+## How to run
+- Run the main.py file.
+- Run plot-titles.py file.
 
 ## Development
 
@@ -38,3 +44,5 @@ Make a change in your file and upload it to [Git](https://github.com/Cpopolan/AP
 CP
 
 **Free Software, Hell Yeah!**
+
+![Diagram](./Arch%20diagram.png)

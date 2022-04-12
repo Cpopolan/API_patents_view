@@ -1,0 +1,1691 @@
+1. Systems for abdominal wall lifting and needle insertion
+2. Customizable modular lamp
+3. Apparatus and method for processing an encoded audio signal
+4. Concept for audio encoding and decoding for audio channels and audio objects
+5. Adaptor
+6. Multi-channel audio decoder, multi-channel audio encoder, methods, computer program and encoded audio representation using a decorrelation of rendered audio signals
+7. Multi-channel decorrelator, multi-channel audio decoder, multi-channel audio encoder, methods and computer program using a premix of decorrelator input signals
+8. Fully homomorphic encryption from monoid algebras
+9. Decoder, encoder, and method for informed loudness estimation in object-based audio coding systems
+10. Apparatus and method for processing an encoded audio signal
+11. Apparatus and method for decoding an encoded audio signal to obtain modified output signals
+12. Touchscreen panel haptics
+13. Decoder, encoder and method for informed loudness estimation employing by-pass audio object signals in object-based audio coding systems
+14. Apparatus and method for realizing a SAOC downmix of 3D audio content
+15. Decoder, encoder, and method for informed loudness estimation in object-based audio coding systems
+16. Apparatus and method for processing an encoded audio signal
+17. Multi-channel decorrelator, multi-channel audio decoder, multi channel audio encoder, methods and computer program using a premix of decorrelator input signals
+18. Synthesis and stabilization of nicotinamide ribose and its derivatives
+19. Apparatus for and method of controlling a process
+20. Control device for musical instrument
+21. Nonintrusive inspection method and system
+22. Controllable motorized device for percutaneous needle placement in soft tissue target and methods and systems related thereto
+23. Injectable solution with anti-inflammatory effect and process for manufacturing the same
+24. Generating a frame of audio data
+25. Apparatus and method for physical interaction over a distance using a telecommunication device
+26. Receiving node in a packet communications system and method for managing a buffer in a receiving node in a packet communications system
+27. Transmission and reception channel selection for communicating between a transmitter unit and a receiver unit
+28. High fidelity current dumping audio amplifier with combined feedback-clean feedback
+29. Membrane electro-catalytic system and process for obtaining fuel gas
+30. Data packet frequency
+31. Apparatus and method for physical interaction over a distance using a telecommunication device
+32. Foldable and portable electric vehicle
+33. Apparatus and method for enhanced spatial audio object coding
+34. Apparatus and method for realizing a SAOC downmix of 3D audio content
+35. Automated agent detection utilizing non-CAPTCHA methods
+36. Decoder, encoder and method for informed loudness estimation employing by-pass audio object signals in object-based audio coding systems
+37. Systems and methods for managing high network data rates
+38. Beacon light
+39. Nonintrusive inspection method and system
+40. Electronically switched reluctance motor
+41. Electronically switched two phases reluctance machine
+42. Stator of an electronically switched two-phase reluctance machine
+43. Method and circuits for controlling the power of an electronically switched, two-phase reluctance machine
+44. Construction and mode of operation of opposite statorless electronically switched motors
+45. Ramp generation module
+46. System and method for modulo addressing vectorization with invariant code motion
+47. Publishing electronic documents utilizing navigation information
+48. Controllable reaction medium single reactor for phosphoric acid production
+49. Brake-motor
+50. Brake motor
+51. Automated detection of pornographic images
+52. Memory engine for the inspection and manipulation of data
+53. Associative memory device
+54. Automated trading system in an electronic trading exchange
+55. Hydraulic or pneumatic machine with tilting blades
+56. Detection and removal of blemishes in digital images utilizing original images of defocused scenes
+57. Automated statistical self-calibrating detection and removal of blemishes in digital images based on a dust map developed from actual image data
+58. Comparator chain offset reduction
+59. Automated statistical self-calibrating detection and removal of blemishes in digital images based on multiple occurrences of dust in images
+60. Automated statistical self-calibrating detection and removal of blemishes in digital images based on determining probabilities based on image analysis of single images
+61. Method and apparatus for red-eye detection in an acquired digital image based on image quality pre and post filtering
+62. Real-time face tracking in a digital image acquisition device
+63. Real-time face tracking in a digital image acquisition device
+64. Detection of airborne flash artifacts using preflash image
+65. Classification system for consumer digital images using workflow, face detection, normalization, and face recognition
+66. Digital camera with built-in lens calibration table
+67. Method and apparatus of correcting hybrid flash artifacts in digital images
+68. Current limited voltage supply
+69. Circuit that provides output voltages in a homogenous magnetic field
+70. Detecting redeye defects in digital images
+71. Two stage detection for photographic eye artifacts
+72. Image processing method and apparatus
+73. Automated interoperability assessments based on iterative profling and emulation of SIP or T.38 fax-relay enabled devices
+74. Two stage detection for photographic eye artifacts
+75. Handheld article with movement discrimination
+76. Digital image enhancement with reference images
+77. Red eye false positive filtering using face location and orientation
+78. Method of gathering visual meta data using a reference image
+79. Automatic face and skin beautification using face detection
+80. Image defect map creation using batches of digital images
+81. Real-time face tracking in a digital image acquisition device
+82. Combinatorial library approach to iminocyclitols with biological activity
+83. Automated trading system in an electronic trading exchange
+84. Method and an apparatus for key management in a communication network
+85. Image acquisition method and apparatus
+86. Methods and apparatuses for foreground, top-of-the-head separation from background
+87. Rapid auto-focus using classifier chains, MEMS and/or multiple object focusing
+88. Real-time face tracking in a digital image acquisition device
+89. Tone mapping for low-light video frame enhancement
+90. Image rotation from local motion estimates
+91. Compiler optimisation like idiom recognition through pattern matching using value numbering
+92. Method and apparatus of correcting hybrid flash artifacts in digital images
+93. Eye defect detection in international standards organization images
+94. RGBW sensor array
+95. Image defect map creation using batches of digital images
+96. Automatic face and skin beautification using face detection
+97. Transmission and reception channel selection for communicating between a transmitter unit and a receiver unit
+98. Face detection using division-generated haar-like features for illumination invariance
+99. Method and system for safe use of magnetic strip cards
+100. Face detection using division-generated Haar-like features for illumination invariance
+101. Color segmentation
+102. Image processing method and apparatus
+103. Dynamic range extension by combining differently exposed hand-held device-acquired images
+104. Tone mapping for low-light video frame enhancement
+105. Methods and apparatuses for using image acquisition data to detect and correct image defects
+106. Resonant photo acoustic system
+107. Nonintrusive inspection method and system of aircrafts
+108. Systems and methods for determining a user context by correlating acceleration data from multiple devices
+109. Eye beautification under inaccurate localization
+110. Methods, systems, and computer readable media for microburst testing
+111. Solid-state mass storage device and method for persisting volatile data to non-volatile media
+112. Communications adapter
+113. Information security appliance
+114. Liquid cooling system for gas turbines
+115. Maize variety hybrid X03B511
+116. Egress port overload protection for network packet forwarding systems
+117. Display interaction in a computer device
+118. Chamber for conductors of electric machines
+119. Turbocharger shaft and wheel assembly
+120. Multi-load drive circuit
+121. Method of making a digital camera image of a first scene with a superimposed second scene
+122. Packet loss debug system and method
+123. Information processing device and method for protecting data in a call stack
+124. Turbocharger shaft and wheel assembly
+125. Contextual commenting on the web
+126. Network appliance for protecting network endpoints against computer security threats
+127. Welded shaft and turbine wheel assembly
+128. In-context editing of output presentations via automatic pattern detection
+129. Image acquisition method and apparatus
+130. Determination of user perspicaciousness during a content stream
+131. Method and apparatus for providing a computer implemented word game
+132. Metal oxide nanocomposite heterostructure methods and hydrogen sulfide sensors including the same
+133. Apparatus for optimising a configuration of a communications network device
+134. Systems and methods for detecting spam in outbound transactional emails
+135. Adapative message caches for replay/flood protection in mesh network devices
+136. Systems and methods for automatic device detection, device management, and remote assistance
+137. Systems and methods for distributing application templates to wearable client devices
+138. Communication device identification
+139. Electronic circuit and method for transferring data between clock domains
+140. Ripple reduction method for chopper amplifiers
+141. Methods, systems, and computer readable media for receiving test configuration information
+142. Methods, systems, and computer readable media for virtual machine (VM) deployment using read-only memory
+143. Transmitter precoding based on quality score
+144. Techniques for associating variable versions of a cluster of devices identified at different times with the same user by assigning cluster identifiers
+145. Methods, systems, and computer readable media for initiating and executing performance tests of a private network and/or components thereof
+146. Device, system and method for prosthodontic restoration
+147. Nonlinear MIMO-OFDM detector
+148. Identifying multiple devices belonging to a single user
+149. TCP connections resiliency system for testing networks in unstable environments
+150. Systems and methods for decrypting network traffic in a virtualized environment
+151. Method for calibrating an image capture device
+152. Determining the identity of a user in stateless devices for the customization of audio content for the user
+153. Method and apparatus for viewing images
+154. System and method for proliferation of stem cells in cellular tissue
+155. Image acquisition device and method based on a sharpness measure and an image acquistion parameter
+156. Method for dynamically calibrating an image capture device
+157. Clear channel assessment
+158. Complexity reduction for transmitter precoding
+159. Image capture device with contemporaneous image correction mechanism
+160. Bulk acoustic wave (BAW) sensors for liquid level measurements
+161. Method for communicating media data between two devices incorporating effectiveness of error correction strategies and associated computer program, communication quality module and device
+162. Populating forwarding database tables in a fabric environment
+163. Methods, systems, and computer readable media for testing network equipment devices using connectionless protocols
+164. Ideal switch bridgeless PFC
+165. Software watchpoints apparatus for variables stored in registers
+166. Buck voltage converter
+167. FET and fiber based sensor
+168. Semiconductor device with a guard structure and corresponding methods of manufacture
+169. Methods, systems, and computer readable media for reducing the size of a cryptographic key in a test simulation environment
+170. Method for controlling a user interface
+171. Systems and methods for spam detection using frequency spectra of character strings
+172. Methods, systems, and computer readable media for testing network equipment devices using connection-oriented protocols
+173. Autonomous key update mechanism with blacklisting of compromised nodes for mesh networks
+174. Method of assembling a turbine wastegate assembly
+175. Serial peripheral interface daisy chain communication with an in-frame response
+176. Methods, systems, and computer readable media for balancing incoming connections across multiple cores
+177. Thermal protection for light emitting devices
+178. Sensor subassembly and method for sending a data signal
+179. Anti-static compositions
+180. Dynamically inserting additional content items targeting a variable duration for a real-time content stream
+181. Efficient scheduling in asynchronous contention-based system
+182. Maize inbred PH2FA7
+183. Benzene sensors and associated methods
+184. Systems and methods for decrypting network traffic in a virtualized environment
+185. E-mail message authentication extending standards complaint techniques
+186. Light-weight key update mechanism with blacklisting based on secret sharing algorithm in wireless sensor networks
+187. Correlating tapped general packet radio service (GPRS) tunneling protocol (GTP) and non-GTP packets for a subscriber's session for load balancing and filtering monitored traffic in a mobile network
+188. Method and apparatus for producing a video stream
+189. Eye beautification under inaccurate localization
+190. Apparatus and method for adjusting guided wave radar pulse width to optimize measurements
+191. Method of providing a sharpness measure for an image
+192. Data pipeline monitoring
+193. Apparatus and method for intravascular catheter navigation using the electrical conduction system of the heart and control electrodes
+194. Humidity sensors with transistor structures and piezoelectric layer
+195. Signal assessment system and signal assessment method
+196. UART with automated protocols
+197. Protecting a network from a unicast flood
+198. Protecting a network from a unicast flood
+199. Image acquisition device and method for determining a focus position based on sharpness
+200. Method for producing framing information for a set of images
+201. Testing using coupling emulation
+202. Classification and organization of consumer digital images using workflow, and face detection and recognition
+203. Isolation and monitoring mode for problematic data links
+204. Blurring a digital image
+205. Devices and methods for endovascular electrography
+206. Tracking a person in a group of people
+207. Central combined active ESD clamp
+208. User interface for security protection and remote management of network endpoints
+209. Systems and methods having omnipolar comparators for magnetic switches
+210. Spectacle case
+211. Binary search of byte sequences using inverted indices
+212. Unmanned aerial vehicle management system
+213. Data transmission
+214. Systems and methods for automatic wireless coupling
+215. Method and apparatus for providing a computer implemented game
+216. Invitations for establishing relationships
+217. Chopper-stabilized amplifier with analog-driven level shifter
+218. Methods and circuits for improved reliability of power devices operating under repetitive thermal stress
+219. Method and apparatus for blending layers within a graphics display component
+220. Real-time video frame pre-processing hardware
+221. Methods, systems, and computer readable media for network diagnostics
+222. Methods, systems, and computer readable media for testing time sensitive network (TSN) elements
+223. Relative humidity sensor and method
+224. Binary search of byte sequences using inverted indices
+225. Soft bit computation unit for MIMO detection and error correction
+226. MIMO decoding based on quadrant identification
+227. Method of avoiding biometrically identifying a subject within an image
+228. Image processing method
+229. Communication link adjustments in wireless networks based upon composite LQI measurements
+230. Magnetic field sensor arrangement and method for processing a magnetic field sensor output signal
+231. Seamless switching control for low power battery backup system
+232. Binary search of byte sequences using inverted indices
+233. Systems and methods for storing information
+234. Current dependent thermal shutdown
+235. Generating persistent profile identifiers
+236. Image acquisition method and apparatus
+237. System and method for computer implemented game
+238. Efficient modification of compressed data
+239. Metal oxide nanocomposite heterostructure methods and hydrogen sulfide sensors including the same
+240. System and method for biometric protocol standards
+241. Information rights management offline file access facility
+242. Preamble detection mechanism for reception of asynchronous packets
+243. Composition for the treatment of joint conditions
+244. Binary search of byte sequences using inverted indices
+245. Managing and negotiating certificates
+246. Multiple cells magnetic structure for wireless power
+247. Network packet microburst detection via network switching device hardware supporting quantizied congestion notification
+248. Method for dynamically calibrating an image capture device
+249. Force/release support in emulation and formal verification
+250. FET based humidity sensor with barrier layer protecting gate dielectric
+251. Automatic detection, counting, and measurement of lumber boards using a handheld device
+252. Method and apparatus for managing graphics layers within a data processing system
+253. Methods, systems, and computer readable media for conducting and validating network route convergence testing
+254. Identifying patterns of a set of software applications
+255. Search using drag and drop of assets into a search bar
+256. Protecting a network from a unicast flood
+257. Protecting a network from a unicast flood
+258. Biometric recognition system
+259. Relative humidity sensor and method
+260. Methods, systems, and media for presenting media content items belonging to a media content group
+261. Clustering based on a directed graph
+262. Systems and methods for automatic device detection
+263. Hybrid cloud with dynamic bridging between systems of record and systems of engagement
+264. Method of providing a sharpness measure for an image
+265. Hybrid AQM controller using RBF for queue utilization approximation as a non-linear system
+266. Maize inbred PH486A
+267. Parallel alignment apparatus for facilitating prosthodontic restorations and method of use
+268. FET and fiber based sensor
+269. Systems and methods for translating natural language sentences into database queries
+270. Forms conversion and deployment system for mobile devices
+271. Matrix for receiving a tissue sample and use thereof
+272. Suspending and resuming a card computing device
+273. Fast cloning for background processes in scripting environments
+274. Network proxy for energy efficient video streaming on mobile devices
+275. Deploying a networking test tool in a cloud computing system
+276. Neural network image processing apparatus
+277. Systems and methods for distributing application templates to wearable client devices
+278. Automated database migration architecture
+279. Facial features tracker with advanced training for natural rendering of human faces in real-time
+280. Digital buffer circuit
+281. Methods and apparatus for virtual machine load monitoring
+282. Image capture device with contemporaneous image correction mechanism
+283. Systems and methods for tissue sample processing
+284. Circuit and method for providing an output signal
+285. Downhole real-time filtrate contamination monitoring
+286. Data processing unit having a memory protection unit
+287. Human monitoring system incorporating calibration methodology
+288. Data pipeline monitoring
+289. Distributed ledger platform for vehicle records
+290. Line discharge circuit with low power components
+291. Multi-rate overlay mode in wireless communication systems
+292. Voltage threshold sensing systems and related methods
+293. Controlled adaptive power limiter
+294. Methods, systems, and computer readable media for testing virtual network components deployed in virtual private clouds (VPCs)
+295. Subscriber sampling for network packet forwarding based upon unique subscriber identifiers
+296. Devices and method for the simulation of a mobile telecommunications network
+297. Early detection of SSB index using prioritized candidate SSB index ordering
+298. Method of avoiding biometrically identifying a subject within an image
+299. Detecting facial expressions in digital images
+300. Systems and techniques for configuring profile merge rules prior to determining segments of recipients of electronic communication
+301. Semiconductor device and method therefor
+302. Identifying multiple devices belonging to a single user
+303. Automated trading system in an electronic trading exchange
+304. Symbol demodulator with error reduction
+305. Layer-based conversion with functionality retention
+306. Holding device
+307. Blurring a digital image
+308. Stage one cache lookup for network node of mesh network
+309. Magnetic field sensor arrangement and method for processing a magnetic field sensor output signal
+310. Systems and methods for detecting leakage using inertial devices
+311. Integrated testing, targeting and measuring of web site components
+312. Bid platform
+313. Under-voltage and over-voltage protection using a single comparator
+314. Systems and methods for using DNS messages to selectively collect computer forensic data
+315. Delivering tailored audio segments within live audio streams
+316. Devices and methods for obtaining pulse information from blood pressure measurements
+317. Acquisition of a data packet having a short preamble
+318. Advanced load balancing based on bandwidth estimation
+319. Secure data distribution of sensitive data across content delivery networks
+320. Method, power monitor microcontroller, and apparatus of non-linear compensation and monitoring of power for power supply units
+321. Methods, systems, and computer readable media for implementing bandwidth limitations on specific application traffic at a proxy element
+322. Method and apparatus for determining the composition of one or more gases
+323. Programmable resistive memory element and a method of making the same
+324. Communication method and base station
+325. User interfaces for mobile and wearable medical devices
+326. Methods and systems for digital reward processing
+327. Preamble detection in wireless systems with intermittent reception
+328. Composition for improving peripheral circulation and healing of hematomas
+329. Mobile detector and method for detecting potentially explosive substances, explosives and drugs by nuclear quadrupole resonance (NQR)
+330. Offset voltage trimming for operational amplifiers
+331. Complexity reduction for transmitter precoding
+332. Real-time video frame pre-processing hardware
+333. Transistor arrangement with a load transistor and a sense transistor
+334. Circuit for controlling a switching device to deliver power to a load
+335. Multi-anchor based extraction, recognition, and machine learning of user interface (UI)
+336. System and method for secure electronic transaction platform
+337. Methods and systems for preparing cytological samples
+338. Self-fastening indoor protecting device
+339. Device and method for vascular access
+340. Estimating contamination during focused sampling
+341. Systems and methods for automatic wireless coupling
+342. Detecting user interface elements in robotic process automation using convolutional neural networks
+343. Detecting sensor-based interactions with client device in conjunction with presentation of content
+344. Automated configuration of machine-to-machine systems
+345. Image acquisition method and apparatus
+346. Cut-changing clothing based on adjustable stitching
+347. Flushing microfluidic sensor systems
+348. Use of DHCP to automatically assign nicknames in a SPBM network
+349. Finger blood pressure cuff
+350. System and method for estimating optimal parameters
+351. Adaptive balancing for battery management
+352. Mixing-bowl assembly
+353. Controlling access to a computing device with a wireless device using wireless signal strength measurements
+354. Fuzzy target selection for robotic process automation
+355. Methods, systems, and computer readable media for utilizing predetermined encryption keys in a test simulation environment
+356. Multipath traffic management
+357. Blended integration of quick response codes into images and video
+358. Pressure sensor devices and methods for manufacturing pressure sensor devices
+359. Image processing method, system and device for synthesizing human appearance
+360. Optimized test case selection for quality assurance testing of video games
+361. Unreachable node recovery in wireless mesh networks
+362. Aircraft with vertical takeoff and landing and its operating process
+363. Systems and methods to enable digital content aggregation and distribution
+364. Feature superposition predictor
+365. Internal power supply for amplifiers
+366. Utilizing one hash permutation and populated-value-slot-based densification for generating audience segment trait recommendations
+367. Unmanned aerial vehicle management system
+368. Optimized network latency using in-band telemetry
+369. Inner VXLAN tunnel packet detection
+370. Dental implant device, system and method of use
+371. Apparatus and method for intravascular catheter navigation using the electrical conduction system of the heart and control electrodes
+372. Systems and methods for graphical layer blending
+373. Power transistor device including first and second transistor cells having different on-resistances for improved thermal stability
+374. Non-intrusive semihosting solution for debug using direct memory access implementation-based library
+375. Script and command line exploitation detection
+376. Applications of a binary search engine based on an inverted index of byte sequences
+377. Feed-forward function for voltage mode control
+378. Systems and methods for behavioral threat detection
+379. Database modeling and analysis
+380. Training optical character detection and recognition models for robotic process automation
+381. Hand-held washing device for pets
+382. Reconfigurable filter network with shortened settling time
+383. Methods and apparatus for data-driven monitoring
+384. Electronic document platform
+385. Programmable resistive memory element and a method of making the same
+386. Intelligent in-band telemetry auto-configuration for IP networks
+387. Methods and systems for correction of oil-based mud filtrate contamination on saturation pressure
+388. Systems and methods for converting and resolving structured queries as search queries
+389. Anti-cyberbullying systems and methods
+390. Automatic detection, counting, and measurement of logs using a handheld device
+391. Systems and methods for anonymized statistical database queries using noise elements
+392. Systems and methods for anonymized statistical database queries
+393. System improvement for deep neural networks
+394. Automatic anchor determination and target graphical element identification in user interface automation
+395. Accurate and interpretable rules for user segmentation
+396. Hydroformylated triglycerides and uses thereof
+397. In-band telemetry packet size optimization
+398. Burner for liquid fuels
+399. Automatic obturator for a gasodynamic ventilation device
+400. Semiconductor device with memory effect
+401. Apparatus for producing a decorative building material
+402. Gas-lift device
+403. Electrodynamograph
+404. Respiratory valve, especially for anaesthetic circuits
+405. Installation for producing a material for the finishing and decorating of the buildings
+406. Method of, and apparatus for drying damp basements
+407. Hydrosoluble rifamycins and process for their preparation
+408. Pneumatically propelled railway car transportation system
+409. Catalytic process for preparing olefins by hydrocarbon pyrolysis
+410. Process and plant for the continuous unloading of the heavy-duty containers in a pneumatic transport system
+411. Rifamycins and method for their preparation
+412. Process for desalting and dehydration of crude oil including hot water washing and gas stripping
+413. Method and apparatus for countering an upward capillary flow of soil moisture in a foundation wall
+414. Alternating current motor
+415. Plant for pneumatic transport
+416. Three pole electric motor
+417. Gas-lift device
+418. Method of and apparatus for incinerating residential waste
+419. Pneumatic transport apparatus and method of propulsion
+420. Reactor for phosphoric acid production
+421. Installation of radiodiagnosis with sweep
+422. Selective preamplifier of cell potentials
+423. Manufacturing process of vermicular graphic cast-irons through double modification
+424. Multilayer bonded fabric and method of and apparatus for making same
+425. Take-off director system
+426. Hepatoprotector Factor (HF) and method of treatment
+427. Optical-electronic system for the identification of a retro-reflective label
+428. Method for the protection of concrete in sea water
+429. Electronic ampere-hour meter
+430. Apparatus for car counting and discrimination
+431. Arc quenching chamber for high breaking capacity circuit breakers
+432. Method and apparatus for generating high current impulses
+433. Catalyst for the pyrolysis of hydrocarbons
+434. Step adjustable monoaxial vibrator
+435. Method and apparatus for dial indicators calibration
+436. Process for the obtainment of a biologically active bee-product
+437. Piezoelectric transducer accelerometer
+438. Method of and apparatus for melting and casting reactive metals
+439. Synthesis procedure and combustion chamber with variable turbulence
+440. Ferromagnetic core disk armature with bar windings
+441. Method and engine for the obtainment of quasi-isothermal transformation in gas compression and expansion
+442. Two-stroke axial pistons engines
+443. Electromechanical driving system with variable speed
+444. Electronic controlling equipment for driving systems with electromagnetic couplings for industrial sewing and/or overcasting machines
+445. Method of and apparatus for controlling pulse hydraulic generators
+446. Medicinal composition for the treatment of certain neuroviruses
+447. Process of organic material extraction from bituminous sands or oil bearing sands
+448. Control system for heat supply as hot water from nuclear power plants equipped with condensation units
+449. Flexible implants for stable flexible osteosynthesis of femoral tibia fractures and working instrumentation
+450. Instrumentation and method for inserting flexible implants into fractured bones
+451. Spherical joint
+452. Compressor for domestic refrigerators
+453. Method of making board made of lignite ash-slag, wood particles and synthetic adhesive
+454. Compressor for domestic refrigerators
+455. Process of preparing pepsin for bating hides
+456. Treatment of acne
+457. Fixed frequency converter switching at zero voltage
+458. Testing clip and circuit board contacting method
+459. Network structure for parallel software processing
+460. Rotary distributor fuel injection apparatus
+461. Wood substitute based on lignocellulosic and inorganic materials, method for obtaining the same and use
+462. Perfusion balloon stent
+463. High-frame rate image acquisition and motion analysis system
+464. Angioplasty perfusion catheter
+465. Bridge rectifier for diode-rectified alternating current generator
+466. "Plant and process for achieving structured waters of the ""I"" type-inhibitively activated and ""S"" type stimulatively activated"
+467. Emulsions of perfluoro compounds as solvents for nitric oxide (NO)
+468. Bioactive concentrate, its producing method and certain drug compositions containing also chondroitin sulphate
+469. Latches for gates
+470. Rechargeable thermal battery for latent energy storage and transfer
+471. Fluorescent photosensitive vitroceramics and process for the production thereof
+472. "Set of structural elements for constructions made of ""DURREF"" material and space self supported module realized with this"
+473. High power laterally antiguided semiconductor light source with reduced transverse optical confinement
+474. Anti-stress, anti-impairment and anti-aging drug and process for manufacturing thereof
+475. Fluorescent photosensitive glasses and process for the production thereof
+476. Method of performance, evaluation and payment of the advertisement in the commercial technique and apparatus
+477. High power diode type laser devices
+478. Immunomodulating compositions from bile
+479. Advanced defrost system
+480. Method and system for intercepting and monitoring signals in a network
+481. Process for the synthesis of silicoaluminophosphate molecular sieves
+482. Low dropout voltage regulator with non-miller frequency compensation
+483. High power laser diode
+484. System and method for determining the 3D position of aircraft, independently onboard and on the ground, for any operation within a &#8220;gate-to-gate&#8221; concept
+485. Immunomodulating compositions from bile
+486. Immunomodulating compositions for treatment of immune system disorders
+487. Low dropout voltage regulator with non-miller frequency compensation
+488. High performance bridge rectifier for diode-rectified alternating current generator
+489. System and method for creation, processing and visualization of omni-directional images
+490. Buffered configurable nonvolatile programmable digital potentiometer
+491. Data compression method and system using globally optimal scalar quantization
+492. Switching type power converter circuit and method for use therein
+493. Process for the synthesis of silicoaluminophosphate molecular sieves
+494. Three-Dimensional optical memory with fluorescent photosensitive vitreous material read and written to by laser
+495. Method for producing fatty acid alcohol ester
+496. Programmable analog bias circuits using floating gate CMOS technology
+497. Three-dimensional optical memory with fluorescent photosensitive material
+498. Band-gap reference circuit with high power supply ripple rejection ratio
+499. Method a quartz sensor
+500. Switching type power converter circuit and method for use therein
+501. Digital potentiometer including output buffer
+502. Determining a coverage mask for a pixel
+503. Digital potentiometer including at least one bulk impedance device
+504. Interface between vendors and customers that uses intelligent agents
+505. System and method for communicating alarm conditions in a mesh network
+506. Automated detection of pornographic images
+507. Negotiation using intelligent agents
+508. Oblique-view cone-beam CT system
+509. Non-volatile CMOS reference circuit
+510. Vacuum sealed surface acoustic wave pressure sensor
+511. Digital image acquisition and processing system
+512. Method for decontamination
+513. Composition and process for improving the combustibles combustion, process and device for obtaining such composition
+514. MEMS SAW sensor
+515. Precision non-volatile CMOS reference circuit
+516. Mobile phone communications system with increased functionality
+517. Method of detecting and correcting dust in digital images based on aura and shadow region analysis
+518. Real-time face tracking in a digital image acquisition device
+519. Digital camera
+520. Method for conditioning wellbore fluids and sucker rod therefore
+521. Pressure sensor
+522. Method for trimming the temperature coefficient of a floating gate voltage reference
+523. Self calibrating dual diaphragm pressure sensor
+524. Automatic detection and correction of non-red eye flash defects
+525. Automated statistical self-calibrating detection and removal of blemishes in digital images dependent upon changes in extracted parameter values
+526. Digital potentiometer including plural bulk impedance devices
+527. Image modification based on red-eye filter analysis
+528. Multifunctional multichip system for wireless sensing
+529. Well treatment with dissolvable polymer
+530. Micro-machined pressure sensor with polymer diaphragm
+531. Substances to stimulate the extraction of crudeoil and a method of processing them
+532. Real-time face tracking in a digital image acquisition device
+533. Active snubber
+534. Nonintrusive inspection method and system
+535. Real-time face tracking in a digital image acquisition device
+536. Real-time face tracking in a digital image acquisition device
+537. Real-time face tracking in a digital image acquisition device
+538. Low pass filter
+539. Portable digital camera with red eye filter
+540. Low distortion class-D amplifier
+541. System and method for communicating broadcast messages in a mesh network
+542. Glass based packaging and attachment of saw torque sensor
+543. Variable frequency multi-phase oscillator
+544. Apparatus having a member to receive a tray(s) that holds semiconductor devices for testing
+545. Digital potentiometer including plural bulk impedance devices
+546. Method and apparatus for red-eye detection in an acquired digital image
+547. Automated statistical self-calibrating detection and removal of blemishes in digital images based on multiple occurrences of dust in images
+548. Automated statistical self-calibrating detection and removal of blemishes in digital images based on determining probabilities based on image analysis of single images
+549. Automated statistical self-calibrating detection and removal of blemishes in digital images dependent upon changes in extracted parameter values
+550. Classification and organization of consumer digital images using workflow, and face detection and recognition
+551. System and method for a wireless mesh network
+552. Non-volatile memory cell in standard CMOS process
+553. Classification system for consumer digital images using workflow and user interface modules, and face detection and recognition
+554. Classification system for consumer digital images using automatic workflow and face detection and recognition
+555. Detecting orientation of digital images using face detection information
+556. Mechanical packaging of surface acoustic wave device for sensing applications
+557. Classification database for consumer digital images
+558. System and method for message consolidation in a mesh network
+559. Method for reducing charge loss in analog floating gate cell
+560. Real-time face tracking with reference images
+561. System and method for a wireless mesh network of configurable signage
+562. Surface acoustic wave pressure sensors
+563. Determination of need to service a camera based on detection of blemishes in digital images
+564. System and method for communicating messages in a mesh network
+565. Detection and removal of blemishes in digital images utilizing original images of defocused scenes
+566. Two stage detection for photographic eye artifacts
+567. Digital image acquisition system with portrait mode
+568. Matrix nanocomposite sensing film for SAW/BAW based hydrogen sulphide sensor and method for making same
+569. Digital image acquisition device with built in dust and sensor mapping capability
+570. DC-DC switching converter device
+571. Patterned dielectric elastomer actuator and method of fabricating the same
+572. MEMS based battery monitoring technical field
+573. Comparator chain offset reduction
+574. Intelligent packaging method and system based on acoustic wave devices
+575. Handheld article with movement discrimination
+576. Integrated MEMS 3D multi-sensor
+577. E-mail message authentication and marking extending standards complaint techniques
+578. Building over the water, group of buildings, their maneuvering methods and their hosting sites
+579. Catalytic processes for the controlled polymerization of free radically (co)polymerizable monomers and functional polymeric systems prepared thereby
+580. Detecting orientation of digital images using face detection information
+581. Method of making a digital camera image of a scene including the camera user
+582. Real-time face tracking in a digital image acquisition device
+583. Method and apparatus of correcting hybrid flash artifacts in digital images
+584. Methods for use of a sensitive layer for hydrogen sulphide detection with SAW/BAW devices
+585. Class-D amplifier
+586. Foreground/background segmentation in digital images
+587. Two stage detection for photographic eye artifacts
+588. Hunting rifle recoilless buttstock
+589. Speed recognition for half bridge control
+590. Method for sensor fabrication and related sensor and system
+591. Current control circuits
+592. Matrix nanocomposite containing aminocarbon nanotubes for carbon dioxide sensor detection
+593. Two stage detection for photographic eye artifacts
+594. Pulsed magnetron sputtering deposition with preionization
+595. Method for MEMS threshold sensor packaging
+596. High-side switch arrangement
+597. System and method for network recovery from multiple link failures
+598. Biosensor and method of detection of a DNA sequence
+599. Circuit that provides output voltages in a homogenous magnetic field
+600. Method and apparatus for red-eye detection in an acquired digital image
+601. Method and apparatus for detection and correction of flash-induced eye defects within digital images using preview or other reference images
+602. Two stage detection for photographic eye artifacts
+603. Two stage detection for photographic eye artifacts
+604. Two stage detection for photographic eye artifacts
+605. Two stage detection for photographic eye artifacts
+606. System and methods of acquisition, analysis and authentication of the handwritten signature
+607. System and method for adaptive load fault detection
+608. Red eye false positive filtering using face location and orientation
+609. Image processing method and apparatus
+610. Detection and removal of blemishes in digital images utilizing original images of defocused scenes
+611. Method for reducing the noise generated by a hole under a high energy gas flow
+612. Detecting redeye defects in digital images
+613. Analyzing partial face regions for red-eye detection in acquired digital images
+614. Real-time face tracking in a digital image acquisition device
+615. Color segmentation
+616. Low drop out (LDO) bypass voltage regulator
+617. In-camera based method of detecting defect eye with high accuracy
+618. Detecting orientation of digital images using face detection information
+619. Resonance frequency tunable MEMS device
+620. Calls per second network testing
+621. Two stage detection for photographic eye artifacts
+622. Method and apparatus of correcting hybrid flash artifacts in digital images
+623. Method of using lean fuel-air mixtures at all operating regimes of a spark ignition engine
+624. Two stage detection for photographic eye artifacts
+625. Spam filtering using feature relevance assignment in neural networks
+626. Method and apparatus for detection and correction of multiple image defects within digital images using preview or other reference images
+627. Telecommunications system and method for connecting a CSTA client to several PBXS
+628. System and method for streetlight monitoring diagnostics
+629. Quantum dot solar cell
+630. Anti-malware emulation systems and methods
+631. Integrated circuit device to support inductive sensing
+632. Face tracking in a camera processor
+633. Method and system for memory management in a HARQ communications system
+634. Two stage detection for photographic eye artifacts
+635. Image acquisition method and apparatus
+636. Method of detecting redeye in a digital image
+637. Dynamic streaming message clustering for rapid spam-wave detection
+638. Two stage detection for photographic eye artifacts
+639. Two stage detection for photographic eye artifacts
+640. Testing a network
+641. Automatic detection and correction of non-red eye flash defects
+642. Bulk selection electronic tool
+643. Ultra low current consumption comparator for thermal shutdown
+644. Low-light video frame enhancement
+645. Classification system for consumer digital images using automatic workflow and face detection and recognition
+646. Adaptive PSF estimation technique using a sharp preview and a blurred image
+647. Adaptive PSF estimation technique using a sharp preview and a blurred image
+648. Methods and apparatuses for using image acquisition data to detect and correct image defects
+649. Digital image acquisition system with portrait mode
+650. Quantum dot solar cell
+651. Quantum dot solar cell
+652. Functionalized monolayers for carbon dioxide detection by a resonant nanosensor
+653. Mechanical control shock-absorbent anti-recoil universal mechanism
+654. Video path confirmation
+655. Method of making a digital camera image of a scene including the camera user
+656. Split wiper digital potentiometer and method
+657. Methods and systems for location estimation
+658. Analyzing partial face regions for red-eye detection in acquired digital images
+659. Aircraft landing gear provided with at least one noise reducing means
+660. RGBW sensor array
+661. Analyzing partial face regions for red-eye detection in acquired digital images
+662. Detecting orientation of digital images using face detection information
+663. Real-time face tracking in a digital image acquisition device
+664. Quantum dot solar cell
+665. Quantum dot solar cell
+666. Detecting redeye defects in digital images
+667. Quantum dot solar cell
+668. Flow statistics aggregation
+669. Telecommunications system and method for connecting several CSTA clients to a PBX
+670. Surface acoustic wave based micro-sensor apparatus and method for simultaneously monitoring multiple conditions
+671. Methods of operation of electrochemical gas sensors
+672. Method and apparatus for red-eye detection using preview or other reference images
+673. In-camera based method of detecting defect eye with high accuracy
+674. Image filtering systems and methods
+675. Adaptive PSF estimation technique using a sharp preview and a blurred image
+676. Buffer module, receiver, device and buffering method using windows
+677. Foreground/background separation in digital images
+678. Foreground / background separation in digital images
+679. Device and method for transmitting data in a wideband wireless network and computer program product
+680. Method for chemical sensor fabrication and related sensor
+681. Quantum dot solar cell
+682. Programmable integrated circuit device to support inductive sensing
+683. Method for stimulating the proliferation of differentiated cells belonging to the chondrogenic lineage
+684. Maize variety hybrid X8N327
+685. Passive surface acoustic wave sensing system
+686. Automatic face and skin beautification using face detection
+687. Detecting orientation of digital images using face detection information
+688. Method of purifying a surfactant by ultrafiltration
+689. Floating-gate programmable low-dropout regulator and method therefor
+690. Anti-malware emulation systems and methods
+691. Image processing method and apparatus
+692. Error detection
+693. Method and apparatus of correcting hybrid flash artifacts in digital images
+694. Methods and systems for community-based content aggregation
+695. Task scheduling method and apparatus
+696. System and method for streetlight monitoring diagnostics
+697. Method of forming a control circuit and device
+698. Forms conversion and deployment system for mobile devices
+699. Method, computer program and computer for analyzing an executable computer file
+700. Differential resonant sensor apparatus and method for detecting relative humidity
+701. System for monitoring structural assets
+702. Enhanced complementary waveform generator
+703. Registration of distorted images
+704. Registration of differently scaled images
+705. Face detection in mid-shot digital images
+706. Automated trading system in an electronic trading exchange
+707. Illumination detection using classifier chains
+708. Eye defect detection in international standards organization images
+709. Autofocus method
+710. Real-time face tracking with reference images
+711. Real-time face tracking in a digital image acquisition device
+712. Thin-film transistor based piezoelectric strain sensor and method
+713. Eye beautification
+714. Face tracker and partial face tracker for red-eye filter method and apparatus
+715. Methods and apparatuses for using image acquisition data to detect and correct image defects
+716. Choosing connectable end points for network test
+717. Transforming function calls for interaction with hierarchical data structures
+718. Redirecting function calls
+719. System for tree sequence testing of a device and method for tree sequence testing of a device in a test framework architecture
+720. Carbon dioxide sensor with functionalized resonating beams
+721. High temperature strain sensor
+722. Classification and organization of consumer digital images using workflow, and face detection and recognition
+723. Algorithm and implementation for fast computation of content recommendations
+724. Differential resonators for NO2 detection and methods related thereto
+725. Methods and apparatuses for half-face detection
+726. Flow statistics aggregation
+727. Fuzzy whitelisting anti-malware systems and methods
+728. Fast rotation estimation of objects in sequences of acquired digital images
+729. Object detection from image profiles within sequences of acquired digital images
+730. Foreground/background separation using reference images
+731. Multiplexing and demultiplexing data
+732. Receiving node in a packet communications system and method for managing a buffer in a receiving node in a packet communications system
+733. Plug movable to a plurality of positions depending upon characteristics of a load device
+734. Methods and apparatuses for half-face detection
+735. SO2 detection using differential nano-resonators and methods related thereto
+736. Conference call system, method, and computer program product
+737. Methods, systems, and computer readable media for non intrusive mean opinion score (MOS) estimation based on packet loss pattern
+738. Rapid auto-focus using classifier chains, MEMS and/or multiple object focusing
+739. Face searching and detection in a digital image acquisition device
+740. Image processing method and apparatus
+741. Adaptive PSF estimation technique using a sharp preview and a blurred image
+742. Statistics reporting in a network test system
+743. Automated trading system in an electronic trading exchange
+744. Real-time face tracking in a digital image acquisition device
+745. Omnipolar magnetic switches
+746. Automatic face and skin beautification using face detection
+747. Systems, methods, and computer readable media for packet classification previewing
+748. DTMF tone monitoring apparatus and method of identifying a DTMF tone
+749. Digital image enhancement with reference images
+750. Automatic address configuration in a network test system
+751. Object detection and rendering for wide field of view (WFOV) image acquisition systems
+752. Managing heterogeneous data
+753. Maize hybrid X05C007
+754. Systems and methods for lexical correspondence linguistic knowledge base creation comprising dependency trees with procedural nodes denoting execute code
+755. Testing a network using randomly distributed commands
+756. Solar cell with hyperpolarizable absorber
+757. Locating signatures in packets
+758. Automated trading system in an electronic trading exchange
+759. Automated trading system in an electronic trading exchange
+760. Predictive incident management
+761. Image processing method and apparatus
+762. Interfacing with a point-in-time copy service architecture
+763. In-camera based method of detecting defect eye with high accuracy
+764. Real-time face tracking in a digital image acquisition device
+765. Methods, systems, and computer readable media for performing encapsulating security payload (ESP) rehashing
+766. Fluorescence quenching based oxygen sensor
+767. Detecting facial expressions in digital images
+768. Artificial oil lifting unit using absorbent belts
+769. Electronic content analytics
+770. Systems and methods for natural language processing including morphological analysis, lemmatizing, spell checking and grammar checking
+771. Systems and methods for managing a complex lexicon comprising multiword expressions and multiword inflection templates
+772. Processing data flows
+773. Methods, systems, and computer readable media for generating general packet radio service tunneling protocol (GTP) encapsulated real-time transport protocol (RTP) packets in a long term evolution (LTE) node simulator
+774. Fluorescent polymers for oxygen sensing
+775. Beacon updating for video analytics
+776. Effective current sensing for high voltage switching regulators
+777. Rapid auto-focus using classifier chains, MEMS and multiple object focusing
+778. End-to-end mapping from operating system running on virtual machine to storage volume of storage-array network (SAN)
+779. Wheel and replaceable nose piece
+780. Voltage regulator with differentiating and amplifier circuitry
+781. Tone relay system and method
+782. Methods, systems, and computer readable media for evolved general packet radio service (GPRS) tunneling protocol (eGTP) indirect tunneling in a voice over LTE (VoLTE) simulation
+783. Methods and systems for community-based content aggregation
+784. Collaborative malware scanning
+785. Online fraud detection dynamic scoring aggregation systems and methods
+786. Carbon dioxide sensor
+787. Extensible integration between service platforms
+788. Substrate
+789. Advanced ceramic catalyst
+790. Voltage regulator having current and voltage foldback based upon load impedance
+791. Methods, systems, and computer readable media for utilizing metadata to detect user datagram protocol (UDP) packet traffic loss
+792. Real-time face tracking with reference images
+793. Systems and methods for storing information
+794. Object detection and rendering for wide field of view (WFOV) image acquisition systems
+795. Real-time video frame pre-processing hardware
+796. Load balancing in handwritten signature authentication systems
+797. Current-mode programmable reference circuits and methods therefor
+798. Self-locking switch
+799. Tone mapping for low-light video frame enhancement
+800. Quantized Congestion Notification—defense mode choice extension for the alternate priority of congestion points
+801. Image capture device with contemporaneous reference image capture mechanism
+802. Classification and organization of consumer digital images using workflow, and face detection and recognition
+803. Methods and systems for representing complex animation using scripting capabilities of rendering applications
+804. Multiplexing and demultiplexing data
+805. Systems and methods for assessing the authenticity of dynamic handwritten signature
+806. Efficient migration of binary XML across databases
+807. Face searching and detection in a digital image acquisition device
+808. Software pipelining
+809. Method and apparatus for enabling communication between a first device and at least one further device
+810. Method of mining and processing seabed sediment
+811. Internet group membership protocol group membership synchronization in virtual link aggregation
+812. Systems and methods for spam detection using character histograms
+813. Random generation of beacons for video analytics
+814. Iminosugar treatment of tumors
+815. Continuous autofocus based on face detection and tracking
+816. Method of fabricating sensors having functionalized resonating beams
+817. Membrane electro-catalytic system and process for obtaining fuel gas
+818. Face or other object detection including template matching
+819. Dynamic balancing of a traffic mix for data center device testing
+820. Machine and methods for reassign positions of a software program based on a fail/pass performance
+821. Automatic face and skin beautification using face detection
+822. Method for aligning sentences at the word level enforcing selective contiguity constraints
+823. Methods, systems, and computer readable media for utilizing a plurality of pre-encoded payloads to generate a packet stream transmission
+824. Using synchronous converter in asynchronous mode to prevent current reversal during battery charging
+825. Device token protocol for authorization and persistent authentication shared across applications
+826. Eye beautification under inaccurate localization
+827. Real-time video frame pre-processing hardware
+828. Combination therapy for breast cancer
+829. Methods, systems, and computer readable media for processing multiple control and user data flows at a port processor
+830. Methods, systems, and computer readable media for effecting movement of virtual switch interfaces between virtual switches connected to different physical ports of a device under test
+831. Deposition of sensing layers for surface acoustic wave chemical sensors based on supra-molecular chemistry
+832. Switching mode power supply using pulse mode active clamping
+833. Circuits and methods for controlling a DC/DC converter
+834. MEMS device
+835. Conference call system, method, and computer program product
+836. Sensing devices and methods
+837. Molecule sensing and identification
+838. Optimization method for compiler, optimizer for a compiler and storage medium storing optimizing code
+839. Processor unit for determining a quality indicator of a communication channel and a method thereof
+840. Methods and systems for previewing content with a dynamic tag cloud
+841. Method of debugging software and corresponding computer program product
+842. Systems and methods for using a reputation indicator to facilitate malware scanning
+843. Foreground / background separation in digital images
+844. Fuzzy whitelisting anti-malware systems and methods
+845. Systems and methods for spam detection using frequency spectra of character strings
+846. Multi-layer computer application with a transparent portion
+847. Integrated circuits and methods for debugging
+848. Solar cell having hybrid heterojunction structure and related system and method
+849. Method and apparatus for generating web pages for members
+850. Contextual commenting on the web
+851. Extracting principal content from web pages
+852. System and process for communicating between two vehicles
+853. Serial memory with fast read with look-ahead
+854. ESD protection
+855. Fast motion estimation method
+856. Methods, systems, and computer readable media for performing single radio voice call continuity (SRVCC) handovers
+857. Fast transient response voltage regulator
+858. Magnetic configuration for high efficiency power processing
+859. Systems and methods for executing arbitrary applications in secure environments
+860. Antenna with effective and electromagnetic bandgap (EBG) media and related system and method
+861. Forward boost power converters and methods
+862. Methods, systems, and computer readable media for handling unexpected virtual station interface (VSI) discovery and configuration protocol (VDP) packets received by a VSI
+863. Methods, systems, and computer readable media for selectively processing packets using time to live (TTL) information
+864. Face searching and detection in a digital image acquisition device
+865. Image processing method and apparatus
+866. Resonant photo acoustic system
+867. Methods, systems, and computer readable media for assigning separate dedicated bearers for audio and video streams in a test simulation environment
+868. Dynamic image display
+869. User-creatable custom workflows
+870. Method and system for correcting a distorted input image
+871. Method and apparatus to detect and block unauthorized MAC address by virtual machine aware network switches
+872. Method and system for correcting a distorted input image
+873. System and method for a diagnostic circuit
+874. Congestion profiling of computer network devices
+875. Methods and systems for supporting a rendering API using a runtime environment
+876. Ordering a lexicon network for automatic disambiguation
+877. CO2 sensor based on a diamond field effect transistor
+878. Privacy protection for mobile devices
+879. Viterbi decoding device and method for decoding a signal produced by a convolutional encoder
+880. Toilet brush and cleaning system
+881. Tone mapping for low-light video frame enhancement
+882. Subsea mining tool including a suction mouth
+883. Systems and methods for detection and quantitation of analytes using an oscillating stimulus
+884. Riser system for transporting a slurry from a position adjacent to the seabed to a position adjacent to the sea surface
+885. Converter unit for an M-order digital modulation and a method thereof
+886. System and method for filtering received data units
+887. Systems and methods having omnipolar comparators for magnetic switches
+888. Resistive random access memory (ReRAM) and conductive bridging random access memory (CBRAM) cross coupled fuse and read method and system
+889. Antenna-diversity receiver and method of operating an antenna-diversity receiver and a transmitter in a frequency-hopping communication system
+890. Providing unified communications services
+891. Method, system, and computer program product
+892. Method and system for diamond-based oxygen sensor
+893. Task scheduling method and apparatus
+894. Machine and methods for evaluating failing software programs
+895. Chopper-stabilized amplifier and method therefor
+896. Dual mode low-dropout linear regulator
+897. Smart semiconductor switch
+898. Smart semiconductor switch
+899. Programmable low-dropout regulator and methods therefor
+900. Partial face detector red-eye filter method and apparatus
+901. Method of discontinuous transmission detection
+902. System on chip and method of operating a system on chip
+903. Methods and apparatus for automatically creating variations of original content based on searching for alternative content objects based on characteristics of the original content
+904. Anti-rootkit systems and methods
+905. Indication of use of erdosteine as antidote in a large number of intoxications, especially in heavy metals like lead or mercury, and paracetamol
+906. Techniques for determining a resistance value
+907. Method and apparatus for optimising computer program code
+908. Sensor device with helical antenna and related system and method
+909. Method and apparatus for deriving a packet select probability value
+910. Touch sensor and methods of making same
+911. Detecting facial expressions in digital images
+912. Radio frequency receiver capable of determining a noise estimate in case of received power unbalanced antennas and method of operating thereof
+913. Quality of service aware hybrid multicast networks
+914. Placing unobtrusive overlays in video content
+915. Magnetic nanostructures and device implementing same
+916. Automating authentication with multi-channel media distributors
+917. Cell search in a wireless communication network
+918. Feed-through for GWR measurements in tanks
+919. Fuzzy whitelisting anti-malware systems and methods
+920. Method of DTX detection in a wireless communication system
+921. Debug configuration tool with layered graphical user interface
+922. Debugging method and computer program product
+923. Unmanned aerial vehicle management system
+924. Current sense amplifer with extended common mode input voltage range
+925. Trimming method for current sense amplifiers
+926. Forward boost power converters with tapped transformers and related methods
+927. Content item synchronization by block
+928. Computer system and a method for generating an optimized program code
+929. Link aggregation using digests
+930. Threaded coupling device with nozzle for GWR measurements in non-metallic tanks
+931. Method and system for hardware implementation of uniform random shuffling
+932. Control plane packet traffic statistics
+933. Device for mounting a pedal of a motor vehicle
+934. Systems and methods for enforcing third party oversight of data anonymization
+935. Photoresist with rare-earth sensitizers
+936. Multiple connection management for bluetooth low energy devices
+937. Dynamic strain sensor and method
+938. Lead-free electrochemical galvanic oxygen sensor
+939. Coupling device for impedance matching to a guided wave radar probe
+940. Radio frequency remote controller device, integrated circuit and method for selecting at least one device to be controlled
+941. Method for recovering platinum group metals from catalytic structures
+942. Method and system for obtaining run-time information associated with executing an executable
+943. Method and system for flammable gas detection comprising a sonicated nanostructured metal oxide
+944. Real-time video frame pre-processing hardware
+945. Methods, systems, and computer readable media for identifying network locations associated with endpoints
+946. Administering a remote session between a target computing device and a remote computing device
+947. Systems and methods of secure data exchange
+948. Quantized congestion notification (QCN) proxy function in data center bridging capabilities exchange (DCBX) protocol
+949. Devices and methods for ECG guided vascular access
+950. Method of testing software
+951. Method and apparatus for selecting at least one device to be wirelessly controlled
+952. Nonintrusive inspection method and system of cargo type objects: vehicles, container trucks, train carriages
+953. Method and computer program product for disassembling a mixed machine code
+954. Real-time tracking collection for video experiences
+955. Adaptive game object alteration
+956. Output switching systems and methods for magnetic field sensors
+957. Method for altering execution of a program, debugger, and computer-readable medium
+958. Debugger system, method and computer program product for utilizing hardware breakpoints for debugging instructions
+959. Face or other object detection including template matching
+960. Automatically identifying reduced availability of multi-channel media distributors for authentication or authorization
+961. Audio signal analysis
+962. Apparatus and method for processing trace data streams
+963. Systems and methods for storing information
+964. Tagged cache for data coherency in multi-domain debug operations
+965. Method and apparatus for viewing images
+966. Sensors and method of operating sensor
+967. Apparatus and method for determining a cumulative size of trace messages generated by a plurality of instructions
+968. Image processing method and apparatus
+969. Data pipeline monitoring
+970. Automatic generation of N-grams and concept relations from linguistic input data
+971. Method and apparatus for isolating analytics logic from content creation in a rich internet application
+972. Foreground / background separation in digital images
+973. Chopper stabilized sigma delta ADC
+974. Methods, systems, and computer readable media for testing network devices using simulated application traffic
+975. Automatic generation of contextual search string synonyms
+976. Invitations for establishing relationships
+977. Method and apparatus for implementing inter-component function calls
+978. Methods, systems, and computer readable media for one-way link delay measurement
+979. Systems and methods for automatic wireless coupling
+980. PIM fast failover using PIM graft message
+981. Configurable correlator for joint timing and frequency synchronization and demodulation
+982. System and method for error detection in a critical system
+983. Three-dimensional latent semantic analysis
+984. Unmanned aerial vehicle management system
+985. Methods, systems, and computer readable media for microburst testing
+986. Locating services
+987. Selecting objects on a user interface based on angle of trajectory of user input
+988. Method and system for diamond-based oxygen sensor
+989. Cloud services performance tuning and benchmarking
+990. Weighted distribution across paths of degraded quality
+991. Systems and methods of secure data exchange
+992. Image capture device with contemporaneous image correction mechanism
+993. Methods, systems, and computer readable media for facilitating the resolving of endpoint hostnames in test environments with firewalls, network address translators (NATs), or clouds
+994. Device for electromagnetic treatment of fuels and method for operating the device
+995. Heat sink for optical module array assembly
+996. Classification and organization of consumer digital images using workflow, and face detection and recognition
+997. Security key generator
+998. Simultaneous encoding and sending of a video data file
+999. Code injection for conditional breakpoints
+1000. Communications using the common object request broker architecture (CORBA)
+1001. Multi-rate overlay mode in wireless communication systems
+1002. User interface
+1003. Network proxy for energy efficient video streaming on mobile devices
+1004. Methods, systems, and computer readable media for receiving a clock synchronization message
+1005. Client side control of adaptive streaming
+1006. Content item synchronization by block
+1007. Turbocharger shaft and wheel assembly
+1008. Data center networking
+1009. Turbocharger shaft and wheel assembly
+1010. Digital device and method
+1011. Privacy protection for mobile devices
+1012. Method and system for generating a memory trace of a program code executable on a programmable target
+1013. System and method for biometric protocol standards
+1014. Method and apparatus for performing register allocation
+1015. Automated trading system in an electronic trading exchange
+1016. Automatically determining restored availability of multi-channel media distributors for authentication or authorization
+1017. Matrix for receiving a tissue sample and use thereof
+1018. Carrier frequency offset estimation for wireless communication
+1019. Apparatus and method for intravascular catheter navigation using the electrical conduction system of the heart and control electrodes
+1020. Condensation sensor systems and methods
+1021. Intelligent caching of responses in a cognitive system
+1022. Systems and methods for operating an energy-efficient display
+1023. Temporary viewer access to videos from programmers while multichannel video programming distributors are unavailable for authentication and authorization
+1024. Device for multiple pan access
+1025. Communications enabled apparatus with a multi-MAC manager and a method of operating thereof
+1026. Method and system to display and browse program trace using source code decoration
+1027. Methods, systems, and computer readable media for testing recovered clock quality
+1028. Denial-of-service attack protection for a communication device
+1029. Hydrogen sulfide sensor and method
+1030. Methods, systems, and computer readable media for application session sharing
+1031. Systems and methods for automatic device detection, device management, and remote assistance
+1032. Systems and methods for providing information for use in a runtime computing environment
+1033. Compiler global memory access optimization in code regions using most appropriate base pointer registers
+1034. Semiconductor devices and methods for forming a semiconductor device
+1035. Automated agent detection utilizing non-CAPTCHA methods
+1036. Detecting facial expressions in digital images
+1037. Television receiver, television set, and method for updating program schedule information in a television receiver
+1038. Seamless connection handshake for a reliable multicast session
+1039. Efficiently determining network topology
+1040. Apparatus and method of performing a decimation on a signal for pattern detection
+1041. Populating forwarding database tables in a fabric environment
+1042. Rapid manufacturing process by using a focused ultrasound beam
+1043. Sensor device with helical antenna and related system and method
+1044. High precision packet generation in software using a hardware time stamp counter
+1045. Configurable correlator for joint timing and frequency synchronization and demodulation
+1046. Real-time tracking collection for video experiences
+1047. Systems and methods for managing high network data rates
+1048. Method of estimating BER values in a wireless communication system
+1049. Search method and apparatus for a communication system
+1050. Automated database migration architecture
+1051. Content item synchronization by block
+1052. Methods, systems, and media for presenting media content items belonging to a media content group
+1053. Composition with increased bioavailability of orally administered embryo-peptides and process for its obtainment
+1054. Gravity latch
+1055. Container
+1056. Armchair with rests
+1057. Housing for a communication device
+1058. Vehicle scanner
+1059. Cephalometry sheet set
+1060. Radiography sheet set
+1061. Network device
+1062. Box
+1063. Bottle
+1064. Bottle
+1065. Bottle having three compartments
+1066. Bottle
+1067. Bottle
+1068. Tissue sample receptacle
+1069. Water treatment device
+1070. Information security appliance
+1071. Dust mask
+1072. Whiteboard
+1073. Tissue sample receptacle
+1074. Cylindrical water treatment device
+1075. Systems and methods for storing information
+1076. Tire uniformity testing machine and a load wheel carriage assembly for a tire uniformity machine
+1077. Mobile detector and method for detecting potentially explosive substances, explosives and drugs by nuclear quadrupole resonance (NQR)
+1078. Active wheel spoiler
+1079. Catalytic process for preparing olefins by hydrocarbon pyrolysis
+1080. Catalyst for the pyrolysis of hydrocarbons
+1081. Methods to test multimedia devices on computer systems
+1082. Testing a vertical blanking interval signal
+1083. Portable vertical blanking interval signal
+1084. Circuit that provides output voltages in a homogenous magnetic field
+1085. Output switching systems and methods for magnetic field sensors
+1086. Systems and methods for storing information
+1087. Robust device for spreading sand at predetermined dimensions and for placing ducts in a sewerage channel
+1088. Interface between vendors and customers that uses intelligent agents
+1089. System allowing users to embed comments at specific points in time into media presentation
+1090. System allowing users to embed comments at specific points in time into media presentation
+1091. Methods, systems, and computer readable media for testing network equipment devices using connectionless protocols
+1092. Methods, systems, and computer readable media for testing network equipment devices using connection-oriented protocols
+1093. Seamless switching control for low power battery backup system
+1094. Managing and negotiating certificates
+1095. Network node, a communication system and associated methods
+1096. Forms conversion and deployment system for mobile devices
+1097. Early detection of SSB index using prioritized candidate SSB index ordering
+1098. Programmable resistive memory element and a method of making the same
+1099. Split tapered roller bearing
+1100. Cyber security system for internet of things connected devices
+1101. Controlling access to a computing device with a wireless device using wireless signal strength measurements
+1102. Image processing method, system and device for synthesizing human appearance
+1103. Split tapered roller bearing
+1104. Programmable resistive memory element and a method of making the same
+1105. Catalytic process for preparing olefins by hydrocarbon pyrolysis
+1106. Process for desalting and dehydration of crude oil including hot water washing and gas stripping
+1107. Controllable reaction medium single reactor for phosphoric acid production
+1108. Catalyst for the pyrolysis of hydrocarbons
+1109. Mesovalve modulator
+1110. MEMS based battery monitoring technical field
+1111. Methods for use of a sensitive layer for hydrogen sulphide detection with SAW/BAW devices
+1112. Device for removing liquids from the well-bore of a gas producing well
+1113. Dynamic streaming message clustering for rapid spam-wave detection
+1114. Process and installation for increasing the burning energy produced by a natural fuel gas
+1115. Functionalized monolayers for carbon dioxide detection by a resonant nanosensor
+1116. Air purifier
+1117. Forms conversion and deployment system for mobile devices
+1118. Heterocyclic ligands for integrin imaging and therapy
+1119. High temperature strain sensor
+1120. Differential resonators for NO2 detection and methods related thereto
+1121. Casino operations management system
+1122. Casino operations management system
+1123. Network supervision with control systems
+1124. Low switching error, small capacitors, auto-zero offset buffer amplifier
+1125. Capacitive touch system with noise immunity
+1126. Compiler optimisation like idiom recognition through pattern matching using value numbering
+1127. Methods, systems, and computer readable media for automatically generating a fuzzer that implements functional and fuzz testing and testing a network device using the fuzzer
+1128. Carbon dioxide sensor
+1129. Fast transient response voltage regulator
+1130. Methods, systems, and computer readable media for selectively processing packets using time to live (TTL) information
+1131. Methods, systems, and computer readable media for caching and using scatter list metadata to control direct memory access (DMA) receiving of network protocol data
+1132. Mains voltage zero-crossing detector
+1133. Placing unobtrusive overlays in video content
+1134. Nonintrusive inspection method and system of cargo type objects: vehicles, container trucks, train carriages
+1135. Gas tight pipe connection of inner and outer pipe parts
+1136. Compiler global memory access optimization in code regions using most appropriate base pointer registers
+1137. Nonintrusive inspection method and system
+1138. Insulating barrier, NVM bandgap design
+1139. Insulating barrier, NVM bandgap design
+1140. Vehicle safety electronic control system
+1141. Apparatus and method for traffic prediction and bandwidth aggregation
+1142. Wire back tension device
+1143. Automated configuration of machine-to-machine systems
+1144. Multipath traffic management
+1145. Network sensor deployment for deep packet inspection
+1146. Pressure system for driving the wheels of a vehicle
+1147. Roadway structures
+1148. Hydrostatic motor
+1149. Step adjustable monoaxial vibrator
+1150. Method of and apparatus for controlling pulse hydraulic generators
+1151. Interface between vendors and customers that uses intelligent agents
+1152. Inverse current protection circuit sensed with vertical source follower
+1153. Smart semiconductor switch
+1154. Force-sensing unit for measuring a belt tensile force acting on a seatbelt lock
+1155. Belt force measuring device
+1156. Synthetic data-driven hemodynamic determination in medical imaging
+1157. Image processing apparatus
+1158. Method and system for prediction of post-stenting hemodynamic metrics for treatment planning of arterial stenosis
+1159. Method and system for hemodynamic computation in coronary arteries
+1160. Coronary computed tomography clinical decision support system
+1161. Fractional flow reserve decision support system
+1162. Method and system for reducing instability when upgrading software
+1163. MEMS-based optical image stabilization
+1164. Valve regurgitant detection for echocardiography
+1165. Method and system for tracking an object
+1166. Wellhead tiedown system
+1167. Landmark detection with spatial and temporal constraints in medical imaging
+1168. Viscoelastic modeling of blood vessels
+1169. Three-dimensional quantitative heart hemodynamics in medical imaging
+1170. Non-invasive functional assessment of coronary artery stenosis including simulation of hyperemia by changing resting microvascular resistance
+1171. Method and system for tracking an object
+1172. Non-invasive functional assessment of coronary artery stenosis including simulation of hyperemia by changing resting microvascular resistance
+1173. Method for operating a system on chip comprising a bootable processor to provide protection of confidential information on the system on chip
+1174. Image processing system
+1175. Method and system for purely geometric machine learning based fractional flow reserve
+1176. Method and system for product recognition
+1177. Method of writing data to a memory device and reading data from the memory device
+1178. Learning based methods for personalized assessment, long-term prediction and management of atherosclerosis
+1179. Lean vending machine
+1180. Convolutional neural network
+1181. Techniques for qualification and maintenance of scientific information system devices
+1182. Machine-learnt prediction of uncertainty or sensitivity for hemodynamic quantification in medical imaging
+1183. Radio-frequency identification transponder for aggressive environments
+1184. Method and system for tracking an object
+1185. MEMS-based optical image stabilization
+1186. Neural network engine
+1187. Method and system for personalized non-invasive hemodynamic assessment of renal artery stenosis from medical images
+1188. Personalized assessment of bone health
+1189. Framework for personalization of coronary flow computations during rest and hyperemia
+1190. Generating training images for machine learning-based objection recognition systems
+1191. Peripheral processing device
+1192. Method and system for correcting a distorted input image
+1193. Enhanced personalized evaluation of coronary artery disease using an integration of multiple medical imaging techniques
+1194. Method and system for assessing a haemodynamic parameter
+1195. Neural network engine
+1196. Semantic segmentation for cancer detection in digital breast tomosynthesis
+1197. Compensating coupling
+1198. Thermal hydraulic propulsion system
+1199. Method and system for non-invasive functional assessment of coronary artery stenosis using flow computations in diseased and hypothetical normal anatomical models
+1200. Rapid assessment and outcome analysis for medical patients
+1201. Synchronizing a personal workspace across multiple computing systems in a coding environment
+1202. Vehicle side view camera system with adjustable field of view
+1203. Method for producing a histogram of oriented gradients
+1204. Image processing apparatus
+1205. Method and system for enhancing medical image-based blood flow computations using physiological measurements
+1206. Devices and methods for obtaining pulse information from blood pressure measurements
+1207. Method and system for clinical decision support with local and remote analytics
+1208. Determining arterial wall property with blood flow model
+1209. Tensioner device for a motor seat vehicle seat belt with a guide element
+1210. Method and system for personalized blood flow modeling based on wearable sensor networks
+1211. Artificial intelligence for physiological quantification in medical imaging
+1212. Synthetic data-driven hemodynamic determination in medical imaging
+1213. Length-adjustable column and manufacturing method thereof, piece of furniture
+1214. Performance of machine learning models for automatic quantification of coronary artery disease
+1215. Processing image frames of a sequence of cardiac images
+1216. Convolutional neural network
+1217. Image processing apparatus
+1218. Drive mechanism
+1219. RFID tag for harsh environment inductively coupled in double loop
+1220. Integrated energy conversion, transfer and storage system
+1221. Assessment of collateral coronary arteries
+1222. Lean vending machine
+1223. Personalized assessment of patients with acute coronary syndrome
+1224. Use of poly(alkylene terephthalates) and methods for their preparation
+1225. Bipode joint
+1226. Interface between vendors and customers that uses intelligent agents
+1227. Automated trading system in an electronic trading exchange
+1228. Real-time face tracking in a digital image acquisition device
+1229. Real-time face tracking in a digital image acquisition device
+1230. Portable digital camera with red eye filter
+1231. Non-volatile memory cell in standard CMOS process
+1232. Apparatus and method for testing semiconductor devices
+1233. Spin-transfer torque oscillator
+1234. Energy storage module
+1235. Pixel mapping using a lookup table and linear approximation
+1236. Bi-functional inhaling device
+1237. MEMS-based optical image stabilization
+1238. Method and system for correcting a distorted input image
+1239. Method and system for hemodynamic assessment of aortic coarctation from medical image data
+1240. Computation of hemodynamic quantities from angiographic data
+1241. Method and system for correcting a distorted input image
+1242. Method and system for correcting a distorted input image
+1243. Customer service routing
+1244. Synthetic data-driven hemodynamic determination in medical imaging
+1245. Length-adjustable unit
+1246. Camshaft phaser having a spring
+1247. Method and system for reducing instability when upgrading software
+1248. Sharing and synchronizing electronically stored files
+1249. Method and system for obtaining run-time information associated with executing an executable
+1250. Method and system for non-invasive computation of hemodynamic indices for coronary artery stenosis
+1251. Techniques for use with test qualification protocols
+1252. Face or other object detection including template matching
+1253. Expert based customer service
+1254. MEMS-based optical image stabilization
+1255. Convolutional neural network
+1256. Device for adjusting the height of a vehicle body
+1257. Device for adjusting the height of a vehicle body
+1258. Synthetic data-driven hemodynamic determination in medical imaging
+1259. Method for producing a histogram of oriented gradients
+1260. Beacon light
+1261. Bath toy organizer
+1262. Precision non-volatile CMOS reference circuit
+1263. Method for trimming the temperature coefficient of a floating gate voltage reference
+1264. Apparatus for actuating and/or monitoring a brushless DC motor
+1265. Two gauge illumination with one light guide
+1266. Mechanism to perform force black color transformation
+1267. Arrangement for compensating pressure in a housing
+1268. Roll to roll printing method
+1269. Process for transferring a liquid using a pump
+1270. Flatbed printer assembly and a method therefor
+1271. Customizable modular lamp
+1272. Flatbed cutter assembly and a method therefor
+1273. Method for operating a circuit arrangement for charging and discharging a capacitive actuator
+1274. Method and device for operating an electric machine
+1275. Electronic control unit with a housing stabilizing element and housing for electronic control unit
+1276. Roll-fed printing assembly, software medium, and method for controlling a roll-fed printing assembly
+1277. Liquid collection and evaporation device
+1278. Flat bed printer
+1279. Method for printing multi-layer print jobs
+1280. Method and system for granting or denying access to a restricted area
+1281. Actuator
+1282. Method and device for spam SMS detection
+1283. Circuit arrangement for driving an inductive load
+1284. Stopping criterion for decoding Quasi-Cyclic LDPC codes
+1285. Head-up display
+1286. Mounting assembly with a heatsink
+1287. Fingerprint authentication mechanism
+1288. Workflow notification mechanism
+1289. Aqueous polyurethane dispersions
+1290. Layered motion representation and extraction in monocular still camera videos
+1291. Aqueous polyurethane dispersions
+1292. Method of controlling a user interface
+1293. Image filtering for improved lossless compression
+1294. Access arrangement for a vehicle
+1295. Automated detection of hazardous drifting vehicles by vehicle sensors
+1296. Print job submission mechanism
+1297. Quantized transition change detection for activity recognition
+1298. Method of forming a three-dimensional object
+1299. Method for determining a course of lanes, driver assistance system, and vehicle
+1300. Head-up display with transparency mask
+1301. Arrangement having a housing and a power electronics circuit arranged on a housing base in the housing
+1302. Apparatus, systems, and methods for providing computational imaging pipeline
+1303. Electronic circuit for providing protection for an energy supply for a receiving device
+1304. Three-dimensional printing by polyhedral shape approximation
+1305. Systems, methods, and computer-readable media for utilizing anonymous sharding techniques to protect distributed data
+1306. System and method for process shaping
+1307. System and method for detecting scan irregularities at self-checkout terminals
+1308. Systems and methods for determining actions performed by objects within images
+1309. Method for determining the position of a mobile radio station by means of a vehicle, and vehicle
+1310. Virtual management system data processing unit and method with rules and alerts
+1311. Systems, methods, and computer-readable media for protecting cryptographic keys
+1312. Head-up display and method for driving a head-up display
+1313. Process of preparing pepsin for bating hides
+1314. Linear electrodynamic machine and method of making and using same
+1315. Hollow wire for faceted jewelry
+1316. Method and apparatus for forming a wire
+1317. Linear reciprocating flux reversal permanent magnetic machine
+1318. Seatbelt lock casing with an integrated force-sensing device
+1319. Optical module and optical system
+1320. Optical module and optical system
+1321. Electronic unit with sealed coolant passage
+1322. Power generating system including modular wind turbine-generator assembly
+1323. Determining relevant information for domains of interest
+1324. Establishing a wind turbine generator with one or more permanent magnet (PM) rotors
+1325. Providing recommendations using information determined for domains of interest
+1326. Establishing a wind turbine generator with one or more permanent magnet (PM) rotors
+1327. Requesting capabilities of a printer and receiving capabilities of a printer and a print server
+1328. Method and device for controlling an electrically actuable brake and an electronic brake system
+1329. Pre-authorization of print jobs in a printing system
+1330. Determining relevant information for domains of interest
+1331. Connection device
+1332. Clamping element
+1333. System and method for accessing private digital content
+1334. Apparatus, systems, and methods for providing configurable computational imaging pipeline
+1335. Print scheduling mechanism
+1336. Reuse of binary bitmaps generated for images in a print job
+1337. Connection device
+1338. Resolution of conflicts between print jobs and printers in a print shop environment
+1339. Integrated circuit for switching loads, circuit arrangement comprising an integrated circuit and a connected load, and method for operating such a circuit arrangement
+1340. LC module for installation in a motor vehicle control device
+1341. Printer-pool based splitting of multi-copy print jobs
+1342. Detection of a wire-break fault during the operation of a brushless d.c. motor
+1343. Providing recommendations using information determined for domains of interest
+1344. Head-up display system and head-up display
+1345. Method and device for operating a brushless DC motor
+1346. Mixing valve of an internal combustion engine
+1347. Method for detecting the detachment of a sensor device mounted in a wheel of a vehicle
+1348. Method for diagnosing an electrical circuit
+1349. Method and system for determining a rotation angle of at least one wheel of a vehicle
+1350. Method for triggering a driver assistance function upon detection of a brake light by a camera
+1351. Mixer valve of an internal combustion engine of a motor vehicle
+1352. Sheet metal housing for an electronic controlling unit
+1353. Housing for electronic control unit
+1354. Layered glass assembly for optical light beam projection with 3D effects on seamless surfaces
+1355. Electric pressure cooker
+1356. Electric scooter
+1357. Kick scooter
+1358. Cold spray nozzle assembly and a method of depositing a powder material onto a surface of a component using the assembly
+1359. Controlled ingrowth feature for antimigration
+1360. Lossy compression for images and signals by identifying regions with low density of features
+1361. Inspection devices and methods of inspecting a slot
+1362. Configuration information to an internet of things multiplexer
+1363. Brick for heat exchangers
+1364. Screw holding screwdriver adapter
+1365. Anti-seismic rescue apparatus
+1366. System, method, and computer program product for updating billing parameters utilizing a bill replica
+1367. Liquid collection and evaporation device
+1368. Mobile robotic device that processes unstructured data of indoor environments to segment rooms in a facility to improve movement of the device through the facility
+1369. Railway basket car for transporting semitrailers
+1370. Motor vehicle subassembly
+1371. Determining relevant information for domains of interest
+1372. Providing recommendations using information determined for domains of interest
+1373. Determining relevant information for domains of interest
+1374. Providing recommendations using information determined for domains of interest
+1375. Electric scooter
+1376. Kick scooter
+1377. Phenolic wastewater treatment with ethers for removal and recovery of phenolics
+1378. System and methods of acquisition, analysis and authentication of the handwritten signature
+1379. Method and apparatus for optimising computer program code
+1380. Nonintrusive inspection method and system
+1381. Method and kit for rapid preparation of autologous tissue medical devices
+1382. Method and apparatus for hand disinfection quality control
+1383. Automonous cancellation of insurance polices using a multi-tiered data structure
+1384. Surgical instruments utilized to assemble a stentless autologous tissue heart valve
+1385. NMR probe for material analysis
+1386. Reduction of motion artifacts in NMR
+1387. Systems and methods for application control in virtualized environments
+1388. Hardware-accelerated prevention of code reuse attacks
+1389. Hydraulic tools with rapid advance
+1390. Systems and methods for detecting return-oriented programming (ROP) exploits
+1391. Systems and approaches for thermal imaging
+1392. Apparatus to protect sealing surfaces of thief hatches
+1393. Frequency comparator and early-late detector
+1394. Multicomponent and biocompatible nanocomposite materials, methods of synthesizing same and applications of same
+1395. Monitoring of field devices via a communication network
+1396. Fluid regulator with field convertible slam-shut device
+1397. Dynamic reputation indicator for optimizing computer security operations
+1398. Delivery of bioactive, nanoencapsulated antioxidants
+1399. Rotary electric machine
+1400. User interface for security protection and remote management of network endpoints
+1401. Monolithic dual band antenna
+1402. Binary search of byte sequences using inverted indices
+1403. Binary search of byte sequences using inverted indices
+1404. Thief hatches with diaphragm assisted sealing
+1405. Systems and methods of application control in virtualized environments
+1406. Binary search of byte sequences using inverted indices
+1407. Systems and methods for auditing a virtual machine
+1408. Current dependent thermal shutdown
+1409. Binary search of byte sequences using inverted indices
+1410. Vibrating member for a vibrating densitometer
+1411. Quick-drying, energy-elastic, scratch-resistant and stable coating compounds
+1412. Dual memory introspection for securing multiple network endpoints
+1413. Event filtering for virtual machine security applications
+1414. Automatic balance valve control
+1415. Apparatus to protect sealing surfaces of thief hatches
+1416. Enhanced identification of computer performance anomalies based on computer performance logs
+1417. Chatbot version comparison
+1418. Long running workflows for document processing using robotic process automation
+1419. Systems and methods for auditing a virtual machine
+1420. Delivery of bioactive, nanoencapsulated antioxidants
+1421. Fluid-regulator with field convertible slam-shut device
+1422. Navigation system with update mechanism and method of operation thereof
+1423. Identification of computer performance anomalies with a logical key performance indicator network
+1424. Slam-shut safety assembly for providing redundant safety shutoff
+1425. Applications of a binary search engine based on an inverted index of byte sequences
+1426. Method and composition for treatment of gastro-duodenal ulcers
+1427. Composition and method for the treatment of duodenal ulcers, gastritis and gastro-duodenitis
+1428. NMR magic sandwich imaging method
+1429. Slice-selective polarization transfer for localized solid-state NMR spectroscopy
+1430. Modified printed dipole antennas for wireless multi-band communication systems
+1431. Modified printed dipole antennas for wireless multi-band communications systems
+1432. Wireless deployment / distributed execution of graphical programs to smart sensors
+1433. Apparatus and a method for supplying information
+1434. Step sinusoidal voltage controlling method for hid, flourescent and incandescent light dimming applications
+1435. Wireless deployment / distributed execution of graphical programs to smart sensors
+1436. Production of nanostructures by curie point induction heating
+1437. Apparatus and methods for synthesis of large size batches of carbon nanostructures
+1438. Deployment and execution of a graphical program on an embedded device from a PDA
+1439. Microstrip multi-band composite antenna
+1440. Method of executing a program on a computer, and computer program product
+1441. Compact modular embedded device
+1442. Ballast protecting device
+1443. Active sensor element and method of determining the temperature of an active sensor element
+1444. Apparatus and methods for synthesis of large size batches of carbon nanostructures
+1445. Fluid regulator
+1446. Deployment and execution of a program on an embedded device
+1447. Radio-frequency oscillator with spin-polarised current
+1448. Incremental deployment and execution of a program on an embedded device
+1449. Methods and systems for location estimation
+1450. Method for electrostatically separating a granule mixture made of different materials, and device for implementing same
+1451. Fuzzy whitelisting anti-malware systems and methods
+1452. Methods and apparatus for providing continuous availability of applications
+1453. Fail safe retaining plug assembly for a slam-shut safety device
+1454. Optical fiber structure and a method of producing thereof
+1455. Secure communication using a trusted virtual machine
+1456. Multicomponent and biocompatible nanocomposite materials, methods of synthesizing same and applications of same
+1457. Method for simplified storage of data representing forms
+1458. Memory introspection engine for integrity protection of virtual machines
+1459. Hypervisor-based enterprise endpoint protection
+1460. Fiber structure and a method for discriminating high order modes in the fiber structure
+1461. Generating a predictive model from multiple data sources
+1462. Generating a predictive model from multiple data sources
+1463. Slam shut safety device having disc arrestor assembly
+1464. Multicomponent and biocompatible nanocomposite materials, methods of synthesizing same and applications of same
+1465. Process evaluation for malware detection in virtual machines
+1466. Strongly isolated malware scanning using secure virtual containers
+1467. Fuzzy whitelisting anti-malware systems and methods
+1468. Slam-shut safety device having a cage
+1469. Torsional spring for a slam-shut safety device
+1470. Actuating device
+1471. Systems and methods for executing arbitrary applications in secure environments
+1472. Slam shut safety device with guided valve disc
+1473. Method and apparatus for analyzing image data generated during underground boring or inspection activities
+1474. Fluid regulator with balancing system
+1475. Apparatus and a method for supplying information
+1476. Muscle stimulation device
+1477. Slam shut safety device with guided plug support
+1478. Below-OS security solution for distributed network endpoints
+1479. Complex scoring for malware detection
+1480. Double port pressure regulator with floating seat
+1481. Sliding gate regulator
+1482. Slam shut safety device having disc anti-rotation
+1483. Bare-metal computer security appliance
+1484. Computer security systems and methods using virtualization exceptions
+1485. Pressure control assembly for a fluid regulator
+1486. Integrated circuit for switching loads, circuit arrangement comprising an integrated circuit and a connected load, and method for operating such a circuit arrangement
+1487. Automated arrival notifications
+1488. Systems and methods for detecting return-oriented programming (ROP) exploits
+1489. Fuzzy whitelisting anti-malware systems and methods
+1490. Tool stand
+1491. Systems and methods for batch processing of samples using a bare-metal computer security appliance
+1492. Enabling a secure environment through operating system switching
+1493. Secure communication using a trusted virtual machine
+1494. Torsional spring for a slam-shut safety device
+1495. Fluid regulator with field convertible slam-shut device
+1496. Method and apparatus for detecting fraudulent advertising traffic initiated through an application
+1497. Double port pressure regulator with floating seat
+1498. Water-emulsible isocyanates having improved gloss
+1499. Method and apparatus for providing contextual based searches
+1500. Slam shut reset pin guide assembly and slam shut safety device comprising same
+1501. Methods for activation of an application on a user device
+1502. Systems and methods for detecting domain generation algorithm (DGA) malware
+1503. Power converter and method for setting the operation and the start-up of a power converter
+1504. Method for assessing the depth of a crack
+1505. Anti-malware systems and methods using hardware-assisted code injection
+1506. Water-emulsifiable isocyanates for coatings having an improved gloss
+1507. Apparatus and a method for supplying information
+1508. Jukebox network system
+1509. Water-dispersible polyisocyanates
+1510. Systems and methods for auditing a virtual machine
+1511. Communications adapter
+1512. Network device
+1513. Information security appliance
+1514. Efficient scheduling in asynchronous contention-based system
+1515. Managing page-level usage data
+1516. Semiconductor device
+1517. Detection and correction of flash artifacts from airborne particulates
+1518. Managing page-level usage data
+1519. Managing page-level usage data
+1520. Automatically identifying reduced availability of multi-channel media distributors for authentication or authorization
+1521. Client side control of adaptive streaming
+1522. Automatically determining restored availability of multi-channel media distributors for authentication or authorization
+1523. Apparatus and a method for supplying information
+1524. Apparatus and a method for supplying information
+1525. Apparatus and a method for supplying information
+1526. Intercooler provided with a thermoelectric generator for a turbocharged internal combustion heat engine
+1527. Composition and method for the treatment of duodenal ulcers, gastritis and gastro-duodenitis
+1528. Wireless deployment / distributed execution of graphical programs to smart sensors
+1529. Wireless deployment / distributed execution of graphical programs to smart sensors
+1530. Deployment and execution of a graphical program on an embedded device from a PDA
+1531. Compact modular embedded device
+1532. Incremental deployment and execution of a program on an embedded device
+1533. User interface functionality for facilitating interaction between users and their environments
+1534. Scaffold for cardiac patch
+1535. Detecting the location of a phone using RF wireless and ultrasonic signals
+1536. Metallic magnetic material with controlled curie temperature and processes for preparing the same
+1537. Rapid development environment
+1538. Efficient modification of compressed data
+1539. Detecting the location of a phone using RF wireless and ultrasonic signals
+1540. Secured communication in network environments
+1541. Content delivery employing multiple security levels
+1542. Identifying missed interactions
+1543. Consistent data storage in distributed computing systems
+1544. Development code execution using a service proxy
+1545. Automated determination of networks motifs
+1546. Encryption profiles for encrypting user-submitted data
+1547. System for dynamic provisioning of host devices
+1548. Measuring unresponsive interactions
+1549. End-to-end deployment infrastructure
+1550. System for detection of input device
+1551. Automating management of integrated workflows based on disparate subsidiary data sources
+1552. Device and method for detecting manual guidance of a steering wheel
+1553. Apparatus, system and method for reducing gun violence
+1554. Synchronizing a personal workspace across multiple computing systems in a coding environment
+1555. Secure data distribution of sensitive data across content delivery networks
+1556. System and method for vehicle parking assistance
+1557. Systems and methods for media content navigation and filtering
+1558. Systems and methods for media content navigation and filtering
+1559. Cryptographic configuration enforcement
+1560. Searchable encrypted data stores
+1561. Siloxane derivatives of amino acids having surface-active properties
+1562. Information security proxy service
+1563. Anti-cyberbullying systems and methods
+1564. Hydrosoluble rifamycins and process for their preparation
+1565. Rifamycins and method for their preparation
+1566. Microwave selective devices using localized modes in weakly asymmetric resonant cavities
+1567. Respiration and movement monitoring system
+1568. Method and apparatus for testing and controlling a flexible manufacturing system
+1569. Amorphous and nanocrystalline glass-covered wires
+1570. Device for detecting an analyte in a sample based on organic materials
+1571. Direct fuel injection and ignition system for internal combustion engines
+1572. System and method for ignition and reignition of unstable electrical discharges
+1573. Structured integrated circuit device
+1574. Structured integrated circuit device
+1575. Integrated circuit communication techniques
+1576. Structured integrated circuit device
+1577. Biomimetic prosthetic ligament and production method thereof
+1578. Pulsed gliding arc electrical discharge reactors
+1579. All wheel drive electrically-variable transmission
+1580. Concentrator for wind power station and aeolian grid
+1581. Tag suggestions based on item metadata
+1582. Reconfigurable radiation shield
+1583. Related-item tag suggestions
+1584. Gliding arc electrical discharge reactors with improved nozzle configuration
+1585. IP management for outbound E-mails
+1586. Powertrain, vehicle and methods
+1587. Online fraud detection dynamic scoring aggregation systems and methods
+1588. IP management for outbound e-mails
+1589. Document classification using multiscale text fingerprints
+1590. Transmission and reception channel selection for communicating between a transmitter unit and a receiver unit
+1591. Method and apparatus for enabling communication between a first device and at least one further device
+1592. Elastic service level agreement for metrics accuracy computation
+1593. System and method for hardware-software multitasking on a reconfigurable computing platform
+1594. Torsional spring for a slam-shut safety device
+1595. Method and circuit arrangement for checking the rotor position of a synchronous machine
+1596. Document classification using multiscale text fingerprints
+1597. Secured communication in network environments
+1598. Privacy protection for mobile devices
+1599. Numeric channel tuner and directory server for media and services
+1600. Method and device for operating a brushless motor
+1601. Tag merging
+1602. Resistive random access memory (ReRAM) and conductive bridging random access memory (CBRAM) cross coupled fuse and read method and system
+1603. Torsional spring for a slam-shut safety device
+1604. Systems and methods for detecting domain generation algorithm (DGA) malware
+1605. Privacy protection for mobile devices
+1606. Animation arrangement
+1607. Content delivery employing multiple security levels
+1608. Automated agent detection utilizing non-CAPTCHA methods
+1609. Facilitating interaction between users and their environments using a headset having input mechanisms
+1610. Voice recorder device
+1611. Hydraulic tools with rapid advance
+1612. Monitoring of field devices via a communication network
+1613. Automatic multi-clock circuit generation
+1614. Metal ion specific capacity affinity sensor
+1615. Method of purifying a surfactant by ultrafiltration
+1616. Process evaluation for malware detection in virtual machines
+1617. Complex scoring for malware detection
+1618. Tool stand
+1619. Network appliance for protecting network endpoints against computer security threats
+1620. Systems and methods for automatic device detection, device management, and remote assistance
+1621. User interface for security protection and remote management of network endpoints
+1622. Nonintrusive inspection method and system
+1623. Conference call system, method, and computer program product
+1624. Wheel liner apparatus
+1625. Systems and methods for automatic device detection, device management, and remote assistance
+1626. Method and composition for treatment of gastro-duodenal ulcers
+1627. Composition and method for the treatment of duodenal ulcers, gastritis and gastro-duodenitis
+1628. Rapid motor for cancer diagnosis
+1629. Systems and methods for auditing a virtual machine
+1630. Systems and methods for auditing a virtual machine
+1631. Exterior rearview mirror for vehicles, in particular motor vehicles
+1632. Systems and methods for auditing a virtual machine
+1633. Artificial intelligence system for improving accessibility of digitized speech
+1634. Virtual network management
+1635. Amorphous and nanocrystalline glass-covered wires
+1636. Tag suggestions based on item metadata
+1637. Related-item tag suggestions
+1638. Device and method for transmitting data in a wideband wireless network and computer program product
+1639. Allocating resource units to a mobile station
+1640. Method and apparatus for enabling communication between a first device and at least one further device
+1641. Methods, systems, and computer readable media for performing single radio voice call continuity (SRVCC) handovers
+1642. Radio frequency remote controller device, integrated circuit and method for selecting at least one device to be controlled
+1643. Method and apparatus for selecting at least one device to be wirelessly controlled
+1644. User interface rendering performance
+1645. Automated agent detection utilizing non-CAPTCHA methods
+1646. Beverage bottle
+1647. System and method for a proportional to absolute temperature circuit
+1648. Tensioner device for a motor seat vehicle seat belt with a guide element
+1649. Process for preparing abrasion and corrosion resistant material
+1650. Wireless deployment / distributed execution of graphical programs to smart sensors
+1651. Wireless deployment / distributed execution of graphical programs to smart sensors
+1652. Deployment and execution of a graphical program on an embedded device from a PDA
+1653. Compact modular embedded device
+1654. Deployment and execution of a program on an embedded device
+1655. Incremental deployment and execution of a program on an embedded device
+1656. Hardware-accelerated prevention of code reuse attacks
+1657. Method and apparatus for extracting and using path shading coherence in a ray tracing architecture
+1658. Systems and methods for dynamically protecting a stack from below the operating system
+1659. Cooking oven provided for heat transfer by convection
+1660. Temporal data structures in a ray tracing architecture
+1661. System and method for movie segment bookmarking and sharing
+1662. Thermal hydraulic propulsion system
+1663. Apparatus and method for runtime training of a denoising machine learning engine
+1664. Apparatus and method for efficient distributed denoising of a graphics frame
+1665. System and method for movie segment bookmarking and sharing
+1666. System and method for detecting scan irregularities at self-checkout terminals
+1667. Integrated energy conversion, transfer and storage system
+1668. Systems and methods for segmenting an organ in a plurality of images
+1669. Memory introspection engine for integrity protection of virtual machines
+1670. Process evaluation for malware detection in virtual machines
+1671. Hardware-enabled prevention of code reuse attacks
+1672. Complex scoring for malware detection
+1673. Page fault injection in virtual machines
+1674. Systems and methods for delivering introspection notifications from a virtual machine
+1675. Systems and methods for delivering event-filtered introspection notifications
+1676. Systems and methods for delivering context-specific introspection notifications
+1677. System and method for movie segment bookmarking and sharing
+1678. Systems and methods for exposing a result of a current processor instruction upon exiting a virtual machine
+1679. Microwave oven cavity and microwave oven
+1680. Systems and methods for dynamically protecting a stack from below the operating system
+1681. Computer security systems and methods using asynchronous introspection exceptions
+1682. Contextual commenting on the web
+1683. Offset voltage trimming for operational amplifiers
+1684. Photonic crystals: a medium exhibiting anomalous cherenkov radiation
+1685. Dielectric waveguide with transverse index variation that support a zero group velocity mode at a non-zero longitudinal wavevector
+1686. Mach-Zehnder interferometer using photonic band gap crystals
+1687. Gap-soliton devices in photonic crystal fibers
+1688. Beacon updating for video analytics
+1689. Random generation of beacons for video analytics
+1690. Contextual commenting on the web
+1691. Multiple connection management for bluetooth low energy devices
