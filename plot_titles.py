@@ -27,8 +27,9 @@ HU_patent = show_hu()
 
 # Add the values
 fig = go.Figure(
-    data=[go.Bar(y=[RO_patent, HU_patent])],
+    data=[go.Bar(y=[RO_patent, HU_patent], x=["RO", "HU"])],
     layout_title_text="Comparison of the no.of patents between RO and HU "
 )
 # Plot the values
 fig.show()
+fig.write_image("plot.png")

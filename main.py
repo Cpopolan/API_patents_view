@@ -63,11 +63,11 @@ class files_hanling(Api_request):
         :return: will create and write a file.
         """
         if self.file_type == "txt":
-            with open(f"{self.title}.txt", "a", encoding="utf-8") as text_file:
+            with open(f"{self.title}.txt", "a", encoding="utf-8", errors="ignore") as text_file:
                 text_file.write(f"{indx}. {x}\n")
 
         elif self.file_type == "csv":
-            with open(f"{self.title}.csv", "a", encoding="utf-8") as text_file:
+            with open(f"{self.title}.csv", "a", encoding="utf-8", errors="ignore") as text_file:
                 text_file.write(f"{indx}. {x}\n")
 
 
