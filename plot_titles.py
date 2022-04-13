@@ -1,6 +1,5 @@
 import plotly.graph_objects as go
 
-
 class Show:
     def __init__(self, file):
         self.file = file
@@ -25,7 +24,7 @@ def create_plot():
     fig = go.Figure(
         data=[go.Bar(y=[ro, ua], x=["RO", "UA"])],
         layout_title_text="Comparison of the no.of patents between RO and UA "
-    )
+                    )
     # Plot the values
     fig.show()
     fig.write_image("plot.png")

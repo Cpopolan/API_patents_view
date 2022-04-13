@@ -77,38 +77,47 @@ def main_ro():
     """
     :return: this is an object of the "files_handling" class
     """
-    file_type = input("Ce tip de fisier doresti sa creezi pentru Romania ( txt sau csv ) ?: \n")
-    if file_type == "txt" or file_type == "csv":
-        title = input("Care este numele fisierului?: \n")
-    else:
-        print("Nu ai ales una din cele 2 formate recomandate.\nLa revedere!")
-        exit()
+    while True:
+        file_type = input("Ce tip de fisier doresti sa creezi pentru Romania ( txt sau csv ) ?: \n")
+        if file_type == "txt" or file_type == "csv":
+            title = input("Care este numele fisierului?: \n")
+            break
+        else:
+            print("Nu ai ales una din cele 2 formate recomandate.\nIncearca din nou.")
+
     new_file_ro = files_hanling("RO", title, file_type)
     new_file_ro.get_titles()
+    return title
 
 
 def main_ua():
     """
     :return: this is an object of the "files_handling" class
     """
-    file_type = input("Ce tip de fisier doresti sa creezi pentru Ucraina ( txt sau csv ) ?: \n")
-    if file_type == "txt" or file_type == "csv":
-        title = input("Care este numele fisierului?: \n")
-    else:
-        print("Nu ai ales una din cele 2 formate recomandate.\nLa revedere!")
-        exit()
+    while True:
+        file_type = input("Ce tip de fisier doresti sa creezi pentru Ucraina ( txt sau csv ) ?: \n")
+        if file_type == "txt" or file_type == "csv":
+            title = input("Care este numele fisierului?: \n")
+            break
+        else:
+            print("Nu ai ales una din cele 2 formate recomandate.\n Incearca din nou.")
+
     new_file_ua = files_hanling("UA", title, file_type)
     new_file_ua.get_titles()
+    return title
 
+while True:
+    start_project = input("Cate tari doresti sa afisezi si sa creezi fisiere? ( 1 sau 2): \n")
+    if start_project == "1":
+        main_ro()
+        break
+    elif start_project == "2":
+        main_ro()
+        main_ua()
+        break
+    else:
+        print(" Nu ai ales nici o tara.\n")
 
-start_project = input("Cate tari doresti sa afisezi si sa creezi fisiere? ( 1 sau 2): \n")
-if start_project == "1":
-    main_ro()
-elif start_project == "2":
-    main_ro()
-    main_ua()
-else:
-    print(" Nu ai ales nici o tara.\nLa revedere!")
 
 sleep(3)
 plot_titles.create_plot()

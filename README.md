@@ -2,9 +2,12 @@
 ## _The world wide pantent view_
 
 
-API_patent_view is an application for viasualisation the patent titles of the two countries Romania and Ukraine.You can extend for many counties as you want. Follow the steps below to explore the project features:
+API_patent_view is an application for visualisation the patent titles of the two countries Romania and Ukraine.You can extend for many counties as you want. Follow the steps below to explore the project features:
 
-
+## Program architecture
+![Diagram](./Arch%20diagram.png)
+## Process_flow
+![Diagram](./proceess_flow_API_patent_view.png)
 ## Features
 
 - Create the files were you can store the informations.(txt or csv).
@@ -45,4 +48,3 @@ CP
 
 **Free Software, Hell Yeah!**
 
-![Diagram](./Arch%20diagram.png)
